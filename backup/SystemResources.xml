@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="link_baidu">http://www.baidu.com/</entry>
+<entry key="path_language_cn">resources/resources_cn.properties</entry>
+<entry key="is_Iconfied">1</entry>
+<entry key="is_Tip_Allowed">0</entry>
+<entry key="theme_PGS">PGS</entry>
+<entry key="tip_type">0</entry>
+<entry key="http://dict.hjenglish.com/jp/">http://dict.hjenglish.com/jp/</entry>
+<entry key="theme_Nimrod">Nimrod</entry>
+<entry key="last_opened_text">0</entry>
+<entry key="total_time"></entry>
+<entry key="font_jp">华文楷体</entry>
+<entry key="is_icon_dynamic">0</entry>
+<entry key="is_start_run">1</entry>
+<entry key="theme_Nimrod_Silver">Nimrod_Silver</entry>
+<entry key="path_language_en">resources/resources_en.properties</entry>
+<entry key="default_language">path_language_cn</entry>
+<entry key="http://dict.cn/">http://dict.cn/</entry>
+<entry key="locale">jp</entry>
+<entry key="http://www.excite.co.jp/world/">http://www.excite.co.jp/world/</entry>
+<entry key="theme_Liquid">Liquid</entry>
+<entry key="link_google">http://www.google.com/</entry>
+<entry key="max_search_result_shows">150</entry>
+<entry key="font_cn">华文楷体</entry>
+<entry key="link_name3">沪江小D(JP)</entry>
+<entry key="theme_Office">Office</entry>
+<entry key="xml_text_file_path">resources/TextFileResource.xml</entry>
+<entry key="search_engine_type">2</entry>
+<entry key="link_name2">爱词霸(EN)</entry>
+<entry key="link_name1">Excite.翻訳</entry>
+<entry key="xml_notice_path">resources/NoticeResource.xml</entry>
+<entry key="is_window_attached">0</entry>
+<entry key="path_language_jp">resources/resources_jp.properties</entry>
+<entry key="log_config_path">bin/log4j.xml</entry>
+<entry key="file.history.file3"/>
+<entry key="file.history.file2"/>
+<entry key="link_url3">http://dict.hjenglish.com/jp/</entry>
+<entry key="file.history.file1"/>
+<entry key="link_url2">http://www.iciba.com/</entry>
+<entry key="link_url1">http://www.excite.co.jp/world/</entry>
+<entry key="theme_default">Nimrod</entry>
+<entry key="is_load_word">0</entry>
+<entry key="file.history.path3"/>
+<entry key="file.history.path2"/>
+<entry key="file.history.path1"/>
+<entry key="font_en">Comic Sans MS</entry>
+<entry key="last_opened_text_category"/>
+<entry key="tip_time">15</entry>
+</properties>

@@ -1,0 +1,1655 @@
+[INFO]  2010-08-25 10:03:04 --- Configuration done.
+ [INFO]  2010-08-25 10:03:04 --- Initializing MainFrame
+ [INFO]  2010-08-25 10:03:05 --- MainFrame show up successfully
+ [INFO]  2010-08-25 10:03:06 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 10:03:06 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 10:03:06 --- jp font :MS PGothic
+ [INFO]  2010-08-25 10:03:07 --- initiating notice resource.
+ [INFO]  2010-08-25 10:03:07 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 10:03:07 --- initiating time counter.
+ [INFO]  2010-08-25 10:03:07 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:07 --- initiating tip counter.
+ [INFO]  2010-08-25 10:03:07 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:07 --- initiating dict panels.
+ [INFO]  2010-08-25 10:03:09 --- WordPanel shut down
+ [INFO]  2010-08-25 10:03:09 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 10:03:09 --- Updating File History
+ [INFO]  2010-08-25 10:03:09 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:03:09 --- Open history1
+ [INFO]  2010-08-25 10:03:10 --- search futher jc takes time:372
+ [INFO]  2010-08-25 10:03:11 --- search futher cj takes time:93
+ [INFO]  2010-08-25 10:03:12 --- search futher ce takes time:372
+ [INFO]  2010-08-25 10:03:12 --- search futher ce takes time:202
+ [INFO]  2010-08-25 10:03:12 --- File history1 does not exist.
+ [INFO]  2010-08-25 10:03:13 --- WordPanel shut down
+ [INFO]  2010-08-25 10:03:20 --- Configuration done.
+ [INFO]  2010-08-25 10:03:20 --- Initializing MainFrame
+ [INFO]  2010-08-25 10:03:21 --- MainFrame show up successfully
+ [INFO]  2010-08-25 10:03:21 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 10:03:21 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 10:03:21 --- jp font :MS PGothic
+ [INFO]  2010-08-25 10:03:21 --- initiating notice resource.
+ [INFO]  2010-08-25 10:03:21 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 10:03:21 --- initiating time counter.
+ [INFO]  2010-08-25 10:03:21 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:21 --- initiating tip counter.
+ [INFO]  2010-08-25 10:03:21 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:21 --- initiating dict panels.
+ [INFO]  2010-08-25 10:03:23 --- Updating File History
+ [INFO]  2010-08-25 10:03:23 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:03:23 --- Open history1
+ [INFO]  2010-08-25 10:03:24 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 10:03:24 --- search futher jc takes time:186
+ [INFO]  2010-08-25 10:03:24 --- search futher cj takes time:62
+ [INFO]  2010-08-25 10:03:24 --- search futher ec takes time:279
+ [INFO]  2010-08-25 10:03:24 --- search futher ce takes time:186
+ [INFO]  2010-08-25 10:03:25 --- File history1 does not exist.
+ [INFO]  2010-08-25 10:03:27 --- Configuration done.
+ [INFO]  2010-08-25 10:03:27 --- Initializing MainFrame
+ [INFO]  2010-08-25 10:03:28 --- MainFrame show up successfully
+ [INFO]  2010-08-25 10:03:28 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 10:03:28 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 10:03:28 --- jp font :MS PGothic
+ [INFO]  2010-08-25 10:03:28 --- initiating notice resource.
+ [INFO]  2010-08-25 10:03:29 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 10:03:29 --- initiating time counter.
+ [INFO]  2010-08-25 10:03:29 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:29 --- initiating tip counter.
+ [INFO]  2010-08-25 10:03:29 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 10:03:29 --- initiating dict panels.
+ [INFO]  2010-08-25 10:03:30 --- Updating File History
+ [INFO]  2010-08-25 10:03:30 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:03:30 --- Open history1
+ [INFO]  2010-08-25 10:03:31 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 10:03:31 --- search futher jc takes time:109
+ [INFO]  2010-08-25 10:03:31 --- search futher cj takes time:78
+ [INFO]  2010-08-25 10:03:31 --- search futher ec takes time:217
+ [INFO]  2010-08-25 10:03:32 --- search futher ce takes time:217
+ [INFO]  2010-08-25 10:03:32 --- File history1 does not exist.
+ [INFO]  2010-08-25 10:03:33 --- WordPanel shut down
+ [INFO]  2010-08-25 10:03:33 --- WordPanel showUp
+ [INFO]  2010-08-25 10:03:44 --- Loading Content
+ [INFO]  2010-08-25 10:03:44 --- Load file sucessfully
+ [INFO]  2010-08-25 10:03:44 --- Load file done
+ [INFO]  2010-08-25 10:03:44 --- Updating File History
+ [INFO]  2010-08-25 10:03:44 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:03:46 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:03:46 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 10:03:47 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 10:03:48 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:03:48 --- Load sheet :0531
+ [INFO]  2010-08-25 10:03:49 --- Initializing DetailPanel
+ [INFO]  2010-08-25 10:03:49 --- Initialization Done
+ [INFO]  2010-08-25 10:03:50 --- WordPanel shut down
+ [INFO]  2010-08-25 10:03:52 --- WordPanel showUp
+ [INFO]  2010-08-25 10:03:53 --- Load sheet :0603
+ [INFO]  2010-08-25 10:03:54 --- Load sheet :0705
+ [INFO]  2010-08-25 10:03:56 --- DetailPanel show up
+ [INFO]  2010-08-25 10:03:56 --- WordPanel shut down
+ [INFO]  2010-08-25 10:29:28 --- Configuration done.
+ [INFO]  2010-08-25 10:29:28 --- Initializing MainFrame
+ [INFO]  2010-08-25 10:29:28 --- MainFrame show up successfully
+ [INFO]  2010-08-25 10:29:29 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 10:29:29 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 10:29:29 --- jp font :MS PGothic
+ [INFO]  2010-08-25 10:29:30 --- initiating notice resource.
+ [INFO]  2010-08-25 10:29:30 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 10:29:30 --- initiating time counter.
+ [INFO]  2010-08-25 10:29:30 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 10:29:30 --- initiating tip counter.
+ [INFO]  2010-08-25 10:29:30 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 10:29:30 --- initiating dict panels.
+ [INFO]  2010-08-25 10:29:35 --- Updating File History
+ [INFO]  2010-08-25 10:29:35 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:29:35 --- Open history1
+ [INFO]  2010-08-25 10:29:35 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 10:29:35 --- Loading Content
+ [INFO]  2010-08-25 10:29:36 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 10:29:36 --- Load file sucessfully
+ [INFO]  2010-08-25 10:29:36 --- Load file done
+ [INFO]  2010-08-25 10:29:36 --- search futher jc takes time:93
+ [INFO]  2010-08-25 10:29:37 --- search futher cj takes time:78
+ [INFO]  2010-08-25 10:29:37 --- search futher ec takes time:218
+ [INFO]  2010-08-25 10:29:37 --- search futher ce takes time:202
+ [INFO]  2010-08-25 10:29:42 --- Initializing OptionDialog
+ [INFO]  2010-08-25 10:29:42 --- Initialization done
+ [INFO]  2010-08-25 10:30:03 --- Load sheet :0705
+ [INFO]  2010-08-25 10:30:04 --- Load sheet :0716
+ [INFO]  2010-08-25 10:30:05 --- Load sheet :0721
+ [INFO]  2010-08-25 10:30:06 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 10:30:07 --- Load sheet :0531
+ [INFO]  2010-08-25 10:30:08 --- Load sheet :0709
+ [INFO]  2010-08-25 10:30:08 --- Load sheet :0719
+ [INFO]  2010-08-25 10:30:11 --- Load sheet :0730
+ [INFO]  2010-08-25 10:30:20 --- Initializing DetailPanel
+ [INFO]  2010-08-25 10:30:20 --- Initialization Done
+ [INFO]  2010-08-25 10:30:20 --- WordPanel shut down
+ [INFO]  2010-08-25 10:30:58 --- WordPanel showUp
+ [INFO]  2010-08-25 10:31:08 --- DetailPanel show up
+ [INFO]  2010-08-25 10:31:08 --- WordPanel shut down
+ [INFO]  2010-08-25 10:31:13 --- search ec takes time:15
+ [INFO]  2010-08-25 10:31:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:13 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:31:13 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:31:13 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:31:39 --- update file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 10:31:39 --- update word for 0730
+ [INFO]  2010-08-25 10:31:45 --- search ec takes time:140
+ [INFO]  2010-08-25 10:31:45 --- search ec takes time:31
+ [INFO]  2010-08-25 10:31:45 --- search ec takes time:16
+ [INFO]  2010-08-25 10:31:45 --- search ec takes time:16
+ [INFO]  2010-08-25 10:31:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:31:46 --- search ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:31:46 --- search ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:46 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:31:54 --- tip window show up.
+ [INFO]  2010-08-25 10:34:28 --- Configuration done.
+ [INFO]  2010-08-25 10:34:28 --- Initializing MainFrame
+ [INFO]  2010-08-25 10:34:29 --- MainFrame show up successfully
+ [INFO]  2010-08-25 10:34:30 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 10:34:30 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 10:34:30 --- jp font :MS PGothic
+ [INFO]  2010-08-25 10:34:30 --- initiating notice resource.
+ [INFO]  2010-08-25 10:34:30 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 10:34:30 --- initiating time counter.
+ [INFO]  2010-08-25 10:34:30 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 10:34:30 --- initiating tip counter.
+ [INFO]  2010-08-25 10:34:30 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 10:34:30 --- initiating dict panels.
+ [INFO]  2010-08-25 10:34:30 --- Updating File History
+ [INFO]  2010-08-25 10:34:30 --- Update File History Successfully.
+ [INFO]  2010-08-25 10:34:30 --- Open history1
+ [INFO]  2010-08-25 10:34:30 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 10:34:30 --- Loading Content
+ [INFO]  2010-08-25 10:34:31 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 10:34:31 --- Load file sucessfully
+ [INFO]  2010-08-25 10:34:31 --- Load file done
+ [INFO]  2010-08-25 10:34:31 --- search futher jc takes time:140
+ [INFO]  2010-08-25 10:34:32 --- search futher cj takes time:94
+ [INFO]  2010-08-25 10:34:32 --- search futher ec takes time:265
+ [INFO]  2010-08-25 10:34:32 --- search futher ce takes time:218
+ [INFO]  2010-08-25 10:34:54 --- WordPanel shut down
+ [INFO]  2010-08-25 10:35:02 --- WordPanel showUp
+ [INFO]  2010-08-25 10:35:04 --- Load sheet :0824
+ [INFO]  2010-08-25 10:35:04 --- Load sheet :0820
+ [INFO]  2010-08-25 10:35:05 --- Load sheet :0804
+ [INFO]  2010-08-25 10:35:05 --- Load sheet :0531
+ [INFO]  2010-08-25 10:35:05 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 10:35:06 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:35:07 --- Load sheet :0705
+ [INFO]  2010-08-25 10:35:07 --- Load sheet :0721
+ [INFO]  2010-08-25 10:35:07 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:35:08 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 10:35:08 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 10:35:09 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:35:09 --- Load sheet :0705
+ [INFO]  2010-08-25 10:35:09 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:35:10 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 10:35:10 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 10:35:11 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 10:35:11 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 10:35:11 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 10:35:26 --- WordPanel shut down
+ [INFO]  2010-08-25 10:35:27 --- search ec takes time:187
+ [INFO]  2010-08-25 10:35:27 --- search ec takes time:47
+ [INFO]  2010-08-25 10:35:27 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:35:29 --- search ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:35:29 --- search ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:35:29 --- search ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:29 --- search futher ec takes time:16
+ [INFO]  2010-08-25 10:35:30 --- search ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 10:35:30 --- search futher ec takes time:15
+ [INFO]  2010-08-25 10:35:31 --- tip window show up.
+ [INFO]  2010-08-25 10:35:37 --- WordPanel showUp
+ [INFO]  2010-08-25 10:36:00 --- Load sheet :0730
+ [INFO]  2010-08-25 12:54:45 --- Configuration done.
+ [INFO]  2010-08-25 12:54:45 --- Initializing MainFrame
+ [INFO]  2010-08-25 12:54:47 --- MainFrame show up successfully
+ [INFO]  2010-08-25 12:54:50 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 12:54:50 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 12:54:50 --- jp font :MS PGothic
+ [INFO]  2010-08-25 12:54:51 --- initiating notice resource.
+ [INFO]  2010-08-25 12:54:52 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 12:54:52 --- initiating time counter.
+ [INFO]  2010-08-25 12:54:52 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 12:54:52 --- initiating tip counter.
+ [INFO]  2010-08-25 12:54:52 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 12:54:52 --- initiating dict panels.
+ [INFO]  2010-08-25 12:54:54 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 12:54:55 --- Updating File History
+ [INFO]  2010-08-25 12:54:55 --- Update File History Successfully.
+ [INFO]  2010-08-25 12:54:55 --- Open history1
+ [INFO]  2010-08-25 12:54:55 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 12:54:55 --- Loading Content
+ [INFO]  2010-08-25 12:54:57 --- Load file sucessfully
+ [INFO]  2010-08-25 12:54:57 --- Load file done
+ [INFO]  2010-08-25 12:55:01 --- search futher jc takes time:576
+ [INFO]  2010-08-25 12:55:02 --- search futher cj takes time:701
+ [INFO]  2010-08-25 12:55:03 --- search futher ec takes time:1168
+ [INFO]  2010-08-25 12:55:05 --- search futher ce takes time:779
+ [INFO]  2010-08-25 12:55:07 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 12:55:07 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 12:55:07 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 12:55:08 --- Load sheet :0709
+ [INFO]  2010-08-25 12:55:09 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 12:55:09 --- Load sheet :0705
+ [INFO]  2010-08-25 12:55:10 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 12:55:10 --- WordPanel shut down
+ [INFO]  2010-08-25 12:55:12 --- WordPanel showUp
+ [INFO]  2010-08-25 12:55:57 --- tip window show up.
+ [INFO]  2010-08-25 13:03:16 --- WordPanel shut down
+ [INFO]  2010-08-25 13:03:17 --- search ec takes time:47
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:233
+ [INFO]  2010-08-25 13:03:17 --- search futher ec takes time:78
+ [INFO]  2010-08-25 13:03:45 --- add word accuracy to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 13:03:48 --- MainFrame ICONIFIED
+ [INFO]  2010-08-25 13:11:39 --- Initializing OptionDialog
+ [INFO]  2010-08-25 13:11:39 --- Initialization done
+ [INFO]  2010-08-25 13:12:12 --- search ec takes time:131
+ [INFO]  2010-08-25 13:12:13 --- search ec takes time:44
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:30
+ [INFO]  2010-08-25 13:12:13 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:12:13 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:12:13 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:12:14 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:12:14 --- search ec takes time:14
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:12:14 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:12:15 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:29
+ [INFO]  2010-08-25 13:12:15 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:12:15 --- search futher ec takes time:29
+ [INFO]  2010-08-25 13:12:16 --- search ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:12:16 --- search futher ec takes time:14
+ [INFO]  2010-08-25 13:13:34 --- Configuration done.
+ [INFO]  2010-08-25 13:13:34 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:13:35 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:13:37 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:13:37 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:13:37 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:13:37 --- initiating notice resource.
+ [INFO]  2010-08-25 13:13:37 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:13:37 --- initiating time counter.
+ [INFO]  2010-08-25 13:13:37 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:13:37 --- initiating tip counter.
+ [INFO]  2010-08-25 13:13:38 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:13:38 --- initiating dict panels.
+ [INFO]  2010-08-25 13:13:42 --- Updating File History
+ [INFO]  2010-08-25 13:13:42 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:13:42 --- Open history1
+ [INFO]  2010-08-25 13:13:42 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:13:42 --- Loading Content
+ [INFO]  2010-08-25 13:13:42 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:13:43 --- Load file sucessfully
+ [INFO]  2010-08-25 13:13:43 --- Load file done
+ [INFO]  2010-08-25 13:13:44 --- search futher jc takes time:153
+ [INFO]  2010-08-25 13:13:44 --- search futher cj takes time:106
+ [INFO]  2010-08-25 13:13:45 --- search futher ec takes time:350
+ [INFO]  2010-08-25 13:13:45 --- search futher ce takes time:381
+ [INFO]  2010-08-25 13:13:47 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:13:47 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:13:49 --- WordPanel shut down
+ [INFO]  2010-08-25 13:13:51 --- WordPanel showUp
+ [INFO]  2010-08-25 13:13:53 --- WordPanel shut down
+ [INFO]  2010-08-25 13:13:53 --- WordPanel showUp
+ [INFO]  2010-08-25 13:13:54 --- WordPanel shut down
+ [INFO]  2010-08-25 13:13:56 --- WordPanel showUp
+ [INFO]  2010-08-25 13:13:57 --- WordPanel shut down
+ [INFO]  2010-08-25 13:13:57 --- WordPanel showUp
+ [INFO]  2010-08-25 13:13:58 --- WordPanel shut down
+ [INFO]  2010-08-25 13:13:58 --- WordPanel showUp
+ [INFO]  2010-08-25 13:14:24 --- Configuration done.
+ [INFO]  2010-08-25 13:14:24 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:14:25 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:14:26 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:14:26 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:14:26 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:14:26 --- initiating notice resource.
+ [INFO]  2010-08-25 13:14:26 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:14:26 --- initiating time counter.
+ [INFO]  2010-08-25 13:14:26 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:14:26 --- initiating tip counter.
+ [INFO]  2010-08-25 13:14:26 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:14:26 --- initiating dict panels.
+ [INFO]  2010-08-25 13:14:30 --- Updating File History
+ [INFO]  2010-08-25 13:14:30 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:14:30 --- Open history1
+ [INFO]  2010-08-25 13:14:30 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:14:30 --- Loading Content
+ [INFO]  2010-08-25 13:14:31 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:14:31 --- Load file sucessfully
+ [INFO]  2010-08-25 13:14:31 --- Load file done
+ [INFO]  2010-08-25 13:14:31 --- search futher jc takes time:121
+ [INFO]  2010-08-25 13:14:32 --- search futher cj takes time:92
+ [INFO]  2010-08-25 13:14:32 --- search futher ec takes time:259
+ [INFO]  2010-08-25 13:14:32 --- search futher ce takes time:214
+ [INFO]  2010-08-25 13:14:49 --- Configuration done.
+ [INFO]  2010-08-25 13:14:49 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:14:49 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:14:50 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:14:50 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:14:50 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:14:50 --- initiating notice resource.
+ [INFO]  2010-08-25 13:14:50 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:14:50 --- initiating time counter.
+ [INFO]  2010-08-25 13:14:50 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:14:50 --- initiating tip counter.
+ [INFO]  2010-08-25 13:14:50 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:14:51 --- initiating dict panels.
+ [INFO]  2010-08-25 13:14:55 --- Updating File History
+ [INFO]  2010-08-25 13:14:55 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:14:55 --- Open history1
+ [INFO]  2010-08-25 13:14:55 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:14:55 --- Loading Content
+ [INFO]  2010-08-25 13:14:55 --- Load file sucessfully
+ [INFO]  2010-08-25 13:14:55 --- Load file done
+ [INFO]  2010-08-25 13:14:55 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:14:56 --- search futher jc takes time:153
+ [INFO]  2010-08-25 13:14:56 --- search futher cj takes time:91
+ [INFO]  2010-08-25 13:14:56 --- search futher ec takes time:290
+ [INFO]  2010-08-25 13:14:57 --- search futher ce takes time:198
+ [INFO]  2010-08-25 13:15:13 --- Configuration done.
+ [INFO]  2010-08-25 13:15:13 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:15:13 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:15:14 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:15:14 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:15:14 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:15:14 --- initiating notice resource.
+ [INFO]  2010-08-25 13:15:14 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:15:14 --- initiating time counter.
+ [INFO]  2010-08-25 13:15:14 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:14 --- initiating tip counter.
+ [INFO]  2010-08-25 13:15:14 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:14 --- initiating dict panels.
+ [INFO]  2010-08-25 13:15:18 --- Updating File History
+ [INFO]  2010-08-25 13:15:18 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:15:18 --- Open history1
+ [INFO]  2010-08-25 13:15:18 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:15:18 --- Loading Content
+ [INFO]  2010-08-25 13:15:19 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:15:19 --- Load file sucessfully
+ [INFO]  2010-08-25 13:15:19 --- Load file done
+ [INFO]  2010-08-25 13:15:19 --- search futher jc takes time:137
+ [INFO]  2010-08-25 13:15:19 --- search futher cj takes time:91
+ [INFO]  2010-08-25 13:15:20 --- search futher ec takes time:259
+ [INFO]  2010-08-25 13:15:20 --- search futher ce takes time:244
+ [INFO]  2010-08-25 13:15:34 --- Configuration done.
+ [INFO]  2010-08-25 13:15:34 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:15:35 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:15:36 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:15:36 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:15:36 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:15:36 --- initiating notice resource.
+ [INFO]  2010-08-25 13:15:36 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:15:36 --- initiating time counter.
+ [INFO]  2010-08-25 13:15:36 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:36 --- initiating tip counter.
+ [INFO]  2010-08-25 13:15:36 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:36 --- initiating dict panels.
+ [INFO]  2010-08-25 13:15:40 --- Updating File History
+ [INFO]  2010-08-25 13:15:40 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:15:40 --- Open history1
+ [INFO]  2010-08-25 13:15:40 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:15:40 --- Loading Content
+ [INFO]  2010-08-25 13:15:41 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:15:41 --- Load file sucessfully
+ [INFO]  2010-08-25 13:15:41 --- Load file done
+ [INFO]  2010-08-25 13:15:41 --- search futher jc takes time:137
+ [INFO]  2010-08-25 13:15:42 --- search futher cj takes time:107
+ [INFO]  2010-08-25 13:15:42 --- search futher ec takes time:259
+ [INFO]  2010-08-25 13:15:42 --- search futher ce takes time:228
+ [INFO]  2010-08-25 13:15:54 --- Configuration done.
+ [INFO]  2010-08-25 13:15:54 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:15:55 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:15:55 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:15:55 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:15:55 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:15:56 --- initiating notice resource.
+ [INFO]  2010-08-25 13:15:56 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:15:56 --- initiating time counter.
+ [INFO]  2010-08-25 13:15:56 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:56 --- initiating tip counter.
+ [INFO]  2010-08-25 13:15:56 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:15:56 --- initiating dict panels.
+ [INFO]  2010-08-25 13:15:59 --- Updating File History
+ [INFO]  2010-08-25 13:15:59 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:15:59 --- Open history1
+ [INFO]  2010-08-25 13:15:59 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:15:59 --- Loading Content
+ [INFO]  2010-08-25 13:16:00 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:16:00 --- Load file sucessfully
+ [INFO]  2010-08-25 13:16:00 --- Load file done
+ [INFO]  2010-08-25 13:16:01 --- search futher jc takes time:107
+ [INFO]  2010-08-25 13:16:01 --- search futher cj takes time:76
+ [INFO]  2010-08-25 13:16:01 --- search futher ec takes time:213
+ [INFO]  2010-08-25 13:16:01 --- search futher ce takes time:198
+ [INFO]  2010-08-25 13:17:08 --- Configuration done.
+ [INFO]  2010-08-25 13:17:08 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:17:09 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:17:10 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:17:10 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:17:10 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:17:10 --- initiating notice resource.
+ [INFO]  2010-08-25 13:17:10 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:17:10 --- initiating time counter.
+ [INFO]  2010-08-25 13:17:10 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:17:10 --- initiating tip counter.
+ [INFO]  2010-08-25 13:17:10 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:17:10 --- initiating dict panels.
+ [INFO]  2010-08-25 13:17:14 --- Updating File History
+ [INFO]  2010-08-25 13:17:14 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:17:14 --- Open history1
+ [INFO]  2010-08-25 13:17:14 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:17:14 --- Loading Content
+ [INFO]  2010-08-25 13:17:14 --- Load file sucessfully
+ [INFO]  2010-08-25 13:17:14 --- Load file done
+ [INFO]  2010-08-25 13:17:14 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:17:15 --- search futher jc takes time:137
+ [INFO]  2010-08-25 13:17:15 --- search futher cj takes time:91
+ [INFO]  2010-08-25 13:17:15 --- search futher ec takes time:290
+ [INFO]  2010-08-25 13:17:16 --- search futher ce takes time:198
+ [INFO]  2010-08-25 13:17:18 --- Load sheet :0818
+ [INFO]  2010-08-25 13:17:21 --- Initializing DetailPanel
+ [INFO]  2010-08-25 13:17:21 --- Initialization Done
+ [INFO]  2010-08-25 13:17:21 --- WordPanel shut down
+ [INFO]  2010-08-25 13:18:16 --- WordPanel showUp
+ [INFO]  2010-08-25 13:27:09 --- Configuration done.
+ [INFO]  2010-08-25 13:27:09 --- Initializing MainFrame
+ [INFO]  2010-08-25 13:27:14 --- MainFrame show up successfully
+ [INFO]  2010-08-25 13:27:16 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 13:27:16 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 13:27:16 --- jp font :MS PGothic
+ [INFO]  2010-08-25 13:27:17 --- initiating notice resource.
+ [INFO]  2010-08-25 13:27:18 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 13:27:18 --- initiating time counter.
+ [INFO]  2010-08-25 13:27:18 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 13:27:18 --- initiating tip counter.
+ [INFO]  2010-08-25 13:27:18 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 13:27:18 --- initiating dict panels.
+ [INFO]  2010-08-25 13:27:33 --- Updating File History
+ [INFO]  2010-08-25 13:27:33 --- Update File History Successfully.
+ [INFO]  2010-08-25 13:27:33 --- Open history1
+ [INFO]  2010-08-25 13:27:33 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 13:27:33 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 13:27:33 --- Loading Content
+ [INFO]  2010-08-25 13:27:37 --- Load file sucessfully
+ [INFO]  2010-08-25 13:27:37 --- Load file done
+ [INFO]  2010-08-25 13:27:40 --- search futher jc takes time:387
+ [INFO]  2010-08-25 13:27:40 --- search futher cj takes time:247
+ [INFO]  2010-08-25 13:27:41 --- search futher ec takes time:434
+ [INFO]  2010-08-25 13:27:41 --- search futher ce takes time:434
+ [INFO]  2010-08-25 13:27:52 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:27:52 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:27:53 --- Load sheet :0531
+ [INFO]  2010-08-25 13:27:53 --- Load sheet :0705
+ [INFO]  2010-08-25 13:27:54 --- Load sheet :0719
+ [INFO]  2010-08-25 13:27:54 --- Load sheet :0805
+ [INFO]  2010-08-25 13:27:55 --- Load sheet :0721
+ [INFO]  2010-08-25 13:27:55 --- Load sheet :0709
+ [INFO]  2010-08-25 13:27:56 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:27:56 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:27:57 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:27:57 --- Load sheet :0716
+ [INFO]  2010-08-25 13:27:58 --- Load sheet :0804
+ [INFO]  2010-08-25 13:27:58 --- Load sheet :0825
+ [INFO]  2010-08-25 13:27:59 --- Load sheet :0729
+ [INFO]  2010-08-25 13:27:59 --- Load sheet :0716
+ [INFO]  2010-08-25 13:28:00 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:28:00 --- Load sheet :0818
+ [INFO]  2010-08-25 13:28:01 --- Load sheet :0720
+ [INFO]  2010-08-25 13:28:02 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:28:02 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:28:02 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:28:03 --- Load sheet :0803
+ [INFO]  2010-08-25 13:28:05 --- Load sheet :0721
+ [INFO]  2010-08-25 13:28:05 --- Initializing DetailPanel
+ [INFO]  2010-08-25 13:28:06 --- Initialization Done
+ [INFO]  2010-08-25 13:28:06 --- WordPanel shut down
+ [INFO]  2010-08-25 13:28:15 --- WordPanel showUp
+ [INFO]  2010-08-25 13:28:16 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:28:17 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:28:17 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:28:17 --- Load sheet :0709
+ [INFO]  2010-08-25 13:28:18 --- Load sheet :0721
+ [INFO]  2010-08-25 13:28:18 --- Load sheet :0720
+ [INFO]  2010-08-25 13:28:19 --- Load sheet :0716
+ [INFO]  2010-08-25 13:28:19 --- Load sheet :0603
+ [INFO]  2010-08-25 13:28:19 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:28:20 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:28:20 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:28:20 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:28:21 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:28:21 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-25 13:28:21 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-25 13:28:22 --- Load sheet :0721
+ [INFO]  2010-08-25 13:28:23 --- Load sheet :0730
+ [INFO]  2010-08-25 13:28:23 --- Load sheet :0805
+ [INFO]  2010-08-25 13:28:24 --- Load sheet :0818
+ [INFO]  2010-08-25 13:28:24 --- Load sheet :0809
+ [INFO]  2010-08-25 13:28:24 --- Load sheet :0730
+ [INFO]  2010-08-25 13:28:26 --- WordPanel shut down
+ [INFO]  2010-08-25 13:28:32 --- search ce takes time:31
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:15
+ [INFO]  2010-08-25 13:28:32 --- search futher ce takes time:16
+ [INFO]  2010-08-25 13:28:36 --- search ec takes time:46
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:279
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:232
+ [INFO]  2010-08-25 13:28:36 --- search ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:28:36 --- search futher ec takes time:31
+ [INFO]  2010-08-25 13:28:54 --- WordPanel showUp
+ [INFO]  2010-08-25 13:28:55 --- WordPanel shut down
+ [INFO]  2010-08-25 13:29:02 --- search ec takes time:588
+ [INFO]  2010-08-25 13:29:02 --- search ec takes time:31
+ [INFO]  2010-08-25 13:29:02 --- search ec takes time:93
+ [INFO]  2010-08-25 13:29:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:02 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:02 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:29:02 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:29:03 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:03 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:03 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:29:03 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:03 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:03 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:03 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:29:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:29:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:08 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:08 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:29:08 --- search ec takes time:0
+ [INFO]  2010-08-25 13:29:08 --- search ec takes time:31
+ [INFO]  2010-08-25 13:29:10 --- WordPanel showUp
+ [INFO]  2010-08-25 13:29:11 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-25 13:29:34 --- Load sheet :0705
+ [INFO]  2010-08-25 13:29:35 --- Load sheet :0719
+ [INFO]  2010-08-25 13:29:35 --- DetailPanel show up
+ [INFO]  2010-08-25 13:29:35 --- WordPanel shut down
+ [INFO]  2010-08-25 13:32:37 --- WordPanel showUp
+ [INFO]  2010-08-25 13:32:47 --- DetailPanel show up
+ [INFO]  2010-08-25 13:32:47 --- WordPanel shut down
+ [INFO]  2010-08-25 13:32:54 --- WordPanel showUp
+ [INFO]  2010-08-25 13:32:56 --- WordPanel shut down
+ [INFO]  2010-08-25 13:32:57 --- search ec takes time:78
+ [INFO]  2010-08-25 13:32:57 --- search ec takes time:265
+ [INFO]  2010-08-25 13:32:59 --- search ec takes time:62
+ [INFO]  2010-08-25 13:32:59 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:32:59 --- search ec takes time:15
+ [INFO]  2010-08-25 13:32:59 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:32:59 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:01 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:01 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:01 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:02 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:02 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:02 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:02 --- search ec takes time:16
+ [INFO]  2010-08-25 13:33:03 --- search ec takes time:15
+ [INFO]  2010-08-25 13:33:03 --- search ec takes time:32
+ [INFO]  2010-08-25 13:33:04 --- search ec takes time:46
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:31
+ [INFO]  2010-08-25 13:33:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:33:04 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:33:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:33:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:26 --- search ce takes time:62
+ [INFO]  2010-08-25 13:33:26 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:26 --- search ce takes time:0
+ [INFO]  2010-08-25 13:33:26 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:26 --- search futher ce takes time:16
+ [INFO]  2010-08-25 13:33:32 --- search ec takes time:31
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:93
+ [INFO]  2010-08-25 13:33:32 --- search ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:33:32 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:33:59 --- search ce takes time:15
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:33:59 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:34:15 --- search ec takes time:62
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:47
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:342
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:46
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:32
+ [INFO]  2010-08-25 13:34:15 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:792
+ [INFO]  2010-08-25 13:34:16 --- search ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:34:16 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:34:41 --- add word communistic to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 13:34:42 --- WordPanel showUp
+ [INFO]  2010-08-25 13:35:30 --- Load sheet :0531
+ [INFO]  2010-08-25 13:35:32 --- DetailPanel show up
+ [INFO]  2010-08-25 13:35:32 --- WordPanel shut down
+ [INFO]  2010-08-25 13:35:48 --- WordPanel showUp
+ [INFO]  2010-08-25 13:35:49 --- Load sheet :0729
+ [INFO]  2010-08-25 13:35:49 --- DetailPanel show up
+ [INFO]  2010-08-25 13:35:49 --- WordPanel shut down
+ [INFO]  2010-08-25 13:35:51 --- MainFrame ICONIFIED
+ [INFO]  2010-08-25 13:41:42 --- WordPanel showUp
+ [INFO]  2010-08-25 13:41:43 --- Load sheet :0825
+ [INFO]  2010-08-25 13:41:46 --- DetailPanel show up
+ [INFO]  2010-08-25 13:41:46 --- WordPanel shut down
+ [INFO]  2010-08-25 13:42:28 --- tip window show up.
+ [INFO]  2010-08-25 13:43:06 --- search ec takes time:793
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:30
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:31
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:43:06 --- search futher ec takes time:213
+ [INFO]  2010-08-25 13:43:28 --- add word diversity to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 13:45:29 --- search ec takes time:155
+ [INFO]  2010-08-25 13:45:29 --- search ec takes time:201
+ [INFO]  2010-08-25 13:45:29 --- search ec takes time:31
+ [INFO]  2010-08-25 13:45:29 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:29 --- search ec takes time:31
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:16
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:45:31 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:32 --- search ce takes time:280
+ [INFO]  2010-08-25 13:49:32 --- search futher ce takes time:16
+ [INFO]  2010-08-25 13:49:32 --- search ce takes time:0
+ [INFO]  2010-08-25 13:49:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:49:32 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:49:40 --- search ce takes time:0
+ [INFO]  2010-08-25 13:49:40 --- search futher ce takes time:16
+ [INFO]  2010-08-25 13:49:41 --- search ce takes time:78
+ [INFO]  2010-08-25 13:49:41 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:49:41 --- search ce takes time:0
+ [INFO]  2010-08-25 13:49:41 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:49:41 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search ec takes time:78
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:15
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:94
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:155
+ [INFO]  2010-08-25 13:49:45 --- search ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:49:45 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:50:09 --- search ce takes time:0
+ [INFO]  2010-08-25 13:50:09 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:50:09 --- search ce takes time:0
+ [INFO]  2010-08-25 13:50:09 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:50:09 --- search futher ce takes time:0
+ [INFO]  2010-08-25 13:53:55 --- WordPanel showUp
+ [INFO]  2010-08-25 13:53:59 --- Open DetailPanel
+ [INFO]  2010-08-25 13:53:59 --- DetailPanel show up
+ [INFO]  2010-08-25 13:53:59 --- WordPanel shut down
+ [INFO]  2010-08-25 13:54:14 --- search ec takes time:171
+ [INFO]  2010-08-25 13:54:15 --- search ec takes time:124
+ [INFO]  2010-08-25 13:54:15 --- search ec takes time:0
+ [INFO]  2010-08-25 13:54:15 --- search ec takes time:0
+ [INFO]  2010-08-25 13:54:15 --- search futher ec takes time:16
+ [INFO]  2010-08-25 13:54:15 --- search ec takes time:0
+ [INFO]  2010-08-25 13:54:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:54:15 --- search futher ec takes time:31
+ [INFO]  2010-08-25 13:54:17 --- search ec takes time:0
+ [INFO]  2010-08-25 13:54:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 13:54:17 --- search ec takes time:0
+ [INFO]  2010-08-25 13:54:17 --- search ec takes time:16
+ [INFO]  2010-08-25 13:54:44 --- search ec takes time:26796
+ [INFO]  2010-08-25 14:02:11 --- add word outta luck to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 14:02:17 --- search ec takes time:1625
+ [INFO]  2010-08-25 14:02:18 --- search ec takes time:820
+ [INFO]  2010-08-25 14:02:18 --- search ec takes time:0
+ [INFO]  2010-08-25 14:02:18 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:02:19 --- search ec takes time:0
+ [INFO]  2010-08-25 14:02:19 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:19 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:33 --- add word nope to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 14:02:48 --- search ec takes time:186
+ [INFO]  2010-08-25 14:02:48 --- search ec takes time:15
+ [INFO]  2010-08-25 14:02:48 --- search ec takes time:31
+ [INFO]  2010-08-25 14:02:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:49 --- search ec takes time:0
+ [INFO]  2010-08-25 14:02:49 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:49 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:58 --- search ec takes time:15
+ [INFO]  2010-08-25 14:02:59 --- search ec takes time:108
+ [INFO]  2010-08-25 14:02:59 --- search ec takes time:31
+ [INFO]  2010-08-25 14:02:59 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:02:59 --- search ec takes time:0
+ [INFO]  2010-08-25 14:02:59 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:02:59 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:03:03 --- search ec takes time:31
+ [INFO]  2010-08-25 14:03:04 --- search ec takes time:0
+ [INFO]  2010-08-25 14:03:04 --- search ec takes time:15
+ [INFO]  2010-08-25 14:03:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:03:05 --- search ec takes time:0
+ [INFO]  2010-08-25 14:03:05 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:03:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:25 --- search ce takes time:171
+ [INFO]  2010-08-25 14:09:25 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:25 --- search ce takes time:0
+ [INFO]  2010-08-25 14:09:25 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:25 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:35 --- search ce takes time:155
+ [INFO]  2010-08-25 14:09:35 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:35 --- search ce takes time:0
+ [INFO]  2010-08-25 14:09:35 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:35 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search ec takes time:16
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:124
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:62
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:77
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:94
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:77
+ [INFO]  2010-08-25 14:09:39 --- search ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:09:39 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:10:33 --- add word temporary to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 14:10:37 --- search ce takes time:0
+ [INFO]  2010-08-25 14:10:37 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:10:37 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:10:50 --- update file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 14:10:50 --- update word for 0825
+ [INFO]  2010-08-25 14:10:58 --- Initializing OptionDialog
+ [INFO]  2010-08-25 14:10:58 --- Initialization done
+ [INFO]  2010-08-25 14:11:12 --- WordPanel showUp
+ [INFO]  2010-08-25 14:11:37 --- Configuration done.
+ [INFO]  2010-08-25 14:11:37 --- Initializing MainFrame
+ [INFO]  2010-08-25 14:11:44 --- MainFrame show up successfully
+ [INFO]  2010-08-25 14:11:59 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 14:11:59 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 14:11:59 --- jp font :MS PGothic
+ [INFO]  2010-08-25 14:12:02 --- initiating notice resource.
+ [INFO]  2010-08-25 14:12:05 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 14:12:05 --- initiating time counter.
+ [INFO]  2010-08-25 14:12:05 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 14:12:05 --- initiating tip counter.
+ [INFO]  2010-08-25 14:12:05 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 14:12:05 --- initiating dict panels.
+ [INFO]  2010-08-25 14:13:23 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 14:13:30 --- Updating File History
+ [INFO]  2010-08-25 14:13:30 --- Update File History Successfully.
+ [INFO]  2010-08-25 14:13:30 --- Open history1
+ [INFO]  2010-08-25 14:13:31 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 14:13:31 --- Loading Content
+ [INFO]  2010-08-25 14:13:39 --- Load file sucessfully
+ [INFO]  2010-08-25 14:13:39 --- Load file done
+ [INFO]  2010-08-25 14:13:51 --- search futher jc takes time:1831
+ [INFO]  2010-08-25 14:13:53 --- search futher cj takes time:1646
+ [INFO]  2010-08-25 14:13:57 --- search futher ec takes time:3124
+ [INFO]  2010-08-25 14:13:59 --- search futher ce takes time:1754
+ [INFO]  2010-08-25 14:15:17 --- WordPanel shut down
+ [INFO]  2010-08-25 14:15:19 --- search ec takes time:108
+ [INFO]  2010-08-25 14:15:19 --- search ec takes time:0
+ [INFO]  2010-08-25 14:15:19 --- search futher ec takes time:31
+ [INFO]  2010-08-25 14:15:20 --- search ec takes time:15
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:15:20 --- search ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:15:20 --- search ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:15:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:15:31 --- WordPanel showUp
+ [INFO]  2010-08-25 14:15:32 --- Initializing SearchFrame
+ [INFO]  2010-08-25 14:15:32 --- Initializationg done
+ [INFO]  2010-08-25 14:15:34 --- Searh Successfully
+ [INFO]  2010-08-25 14:15:37 --- Initializing DetailPanel
+ [INFO]  2010-08-25 14:15:37 --- Initialization Done
+ [INFO]  2010-08-25 14:15:37 --- WordPanel shut down
+ [INFO]  2010-08-25 14:15:57 --- Initializing OptionDialog
+ [INFO]  2010-08-25 14:15:57 --- Initialization done
+ [INFO]  2010-08-25 14:17:50 --- search ec takes time:15
+ [INFO]  2010-08-25 14:17:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:17:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:17:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:17:50 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:19:56 --- OptionDialog show up
+ [INFO]  2010-08-25 14:20:10 --- Configuration done.
+ [INFO]  2010-08-25 14:20:10 --- Initializing MainFrame
+ [INFO]  2010-08-25 14:20:10 --- MainFrame show up successfully
+ [INFO]  2010-08-25 14:20:11 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-25 14:20:11 --- en font :Comic Sans MS
+ [INFO]  2010-08-25 14:20:11 --- jp font :MS PGothic
+ [INFO]  2010-08-25 14:20:11 --- initiating notice resource.
+ [INFO]  2010-08-25 14:20:11 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-25 14:20:11 --- initiating time counter.
+ [INFO]  2010-08-25 14:20:11 --- time counter has been initiated successfully.
+ [INFO]  2010-08-25 14:20:11 --- initiating tip counter.
+ [INFO]  2010-08-25 14:20:11 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-25 14:20:11 --- initiating dict panels.
+ [INFO]  2010-08-25 14:20:12 --- Updating File History
+ [INFO]  2010-08-25 14:20:12 --- Update File History Successfully.
+ [INFO]  2010-08-25 14:20:12 --- Open history1
+ [INFO]  2010-08-25 14:20:12 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-25 14:20:12 --- Loading Content
+ [INFO]  2010-08-25 14:20:12 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-25 14:20:13 --- Load file sucessfully
+ [INFO]  2010-08-25 14:20:13 --- Load file done
+ [INFO]  2010-08-25 14:20:13 --- search futher jc takes time:124
+ [INFO]  2010-08-25 14:20:13 --- search futher cj takes time:78
+ [INFO]  2010-08-25 14:20:14 --- search futher ec takes time:264
+ [INFO]  2010-08-25 14:20:14 --- search futher ce takes time:264
+ [INFO]  2010-08-25 14:31:39 --- WordPanel shut down
+ [INFO]  2010-08-25 14:31:40 --- WordPanel showUp
+ [INFO]  2010-08-25 14:31:41 --- WordPanel shut down
+ [INFO]  2010-08-25 14:32:13 --- search ec takes time:123
+ [INFO]  2010-08-25 14:32:13 --- search ec takes time:15
+ [INFO]  2010-08-25 14:32:13 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:14 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:15 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:15 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:32:15 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:32:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:16 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:32:20 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:20 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:20 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:20 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:20 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:32:21 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:21 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:32:22 --- search ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:32:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:32:53 --- add word punctual to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 14:32:58 --- WordPanel showUp
+ [INFO]  2010-08-25 14:33:00 --- Initializing DetailPanel
+ [INFO]  2010-08-25 14:33:00 --- Initialization Done
+ [INFO]  2010-08-25 14:33:00 --- WordPanel shut down
+ [INFO]  2010-08-25 14:34:26 --- search ec takes time:16
+ [INFO]  2010-08-25 14:34:26 --- search ec takes time:15
+ [INFO]  2010-08-25 14:34:26 --- search ec takes time:46
+ [INFO]  2010-08-25 14:34:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:26 --- search ec takes time:15
+ [INFO]  2010-08-25 14:34:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:26 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:34:27 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:34:27 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:27 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:34:30 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:34:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:35:05 --- tip window show up.
+ [INFO]  2010-08-25 14:43:04 --- search ec takes time:62
+ [INFO]  2010-08-25 14:43:04 --- search ec takes time:31
+ [INFO]  2010-08-25 14:43:04 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:43:04 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:43:04 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:05 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:05 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:43:05 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:05 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:43:05 --- search ec takes time:16
+ [INFO]  2010-08-25 14:43:06 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:43:06 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:43:06 --- search ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:43:06 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:15 --- search ec takes time:78
+ [INFO]  2010-08-25 14:49:15 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search ec takes time:15
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:49:16 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:16 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:49:17 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:49:17 --- search ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:49:17 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:49:24 --- WordPanel showUp
+ [INFO]  2010-08-25 14:49:25 --- Initializing SearchFrame
+ [INFO]  2010-08-25 14:49:25 --- Initializationg done
+ [INFO]  2010-08-25 14:49:27 --- Searh Successfully
+ [INFO]  2010-08-25 14:49:28 --- DetailPanel show up
+ [INFO]  2010-08-25 14:49:28 --- WordPanel shut down
+ [INFO]  2010-08-25 14:56:47 --- search ec takes time:63
+ [INFO]  2010-08-25 14:56:48 --- search ec takes time:31
+ [INFO]  2010-08-25 14:56:49 --- search ec takes time:16
+ [INFO]  2010-08-25 14:56:49 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:49 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:56:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:56:51 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:57:00 --- search ec takes time:93
+ [INFO]  2010-08-25 14:57:01 --- search ec takes time:15
+ [INFO]  2010-08-25 14:57:01 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:01 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:57:10 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:16
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:15
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:57:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 14:58:20 --- search ce takes time:31
+ [INFO]  2010-08-25 14:58:20 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:58:20 --- search ce takes time:0
+ [INFO]  2010-08-25 14:58:20 --- search futher ce takes time:0
+ [INFO]  2010-08-25 14:58:20 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:00:49 --- WordPanel showUp
+ [INFO]  2010-08-25 15:00:53 --- Open DetailPanel
+ [INFO]  2010-08-25 15:00:53 --- DetailPanel show up
+ [INFO]  2010-08-25 15:00:53 --- WordPanel shut down
+ [INFO]  2010-08-25 15:00:57 --- WordPanel showUp
+ [INFO]  2010-08-25 15:01:10 --- DetailPanel show up
+ [INFO]  2010-08-25 15:01:10 --- WordPanel shut down
+ [INFO]  2010-08-25 15:01:14 --- search ec takes time:109
+ [INFO]  2010-08-25 15:01:14 --- search ec takes time:16
+ [INFO]  2010-08-25 15:01:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:01:31 --- add word finance to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 15:06:50 --- search ec takes time:63
+ [INFO]  2010-08-25 15:06:50 --- search ec takes time:31
+ [INFO]  2010-08-25 15:06:50 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:06:50 --- search ec takes time:0
+ [INFO]  2010-08-25 15:06:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:50 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:06:51 --- search ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:06:51 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:11:46 --- add word esteem to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 15:12:21 --- search ec takes time:16
+ [INFO]  2010-08-25 15:12:22 --- search ec takes time:15
+ [INFO]  2010-08-25 15:12:22 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:12:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search ec takes time:16
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search ec takes time:16
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:12:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:12:23 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:12:24 --- search ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:12:24 --- search ec takes time:16
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:12:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:27 --- search ec takes time:202
+ [INFO]  2010-08-25 15:14:28 --- search ec takes time:78
+ [INFO]  2010-08-25 15:14:28 --- search ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:14:28 --- search ec takes time:15
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search ec takes time:15
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:14:28 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:15:31 --- add word assign to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 15:16:11 --- search ec takes time:109
+ [INFO]  2010-08-25 15:16:11 --- search ec takes time:78
+ [INFO]  2010-08-25 15:16:12 --- search ec takes time:16
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:16:12 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:04 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:05 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:05 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:05 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:07 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:07 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:08 --- search ec takes time:15
+ [INFO]  2010-08-25 15:18:10 --- search ec takes time:47
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:10 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:10 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:10 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:11 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:11 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:11 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:13 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:13 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:13 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:13 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:13 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:14 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:14 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:15 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:22 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:22 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:15
+ [INFO]  2010-08-25 15:18:23 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:23 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:24 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:26 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:18:30 --- search ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:0
+ [INFO]  2010-08-25 15:18:30 --- search futher ec takes time:16
+ [INFO]  2010-08-25 15:19:08 --- add word equalize to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 15:19:47 --- search ce takes time:31
+ [INFO]  2010-08-25 15:19:47 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:19:47 --- search ce takes time:0
+ [INFO]  2010-08-25 15:19:47 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:19:47 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:19:57 --- search ce takes time:31
+ [INFO]  2010-08-25 15:19:57 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:23:21 --- Initializing OptionDialog
+ [INFO]  2010-08-25 15:23:21 --- Initialization done
+ [INFO]  2010-08-25 15:26:09 --- search ce takes time:15
+ [INFO]  2010-08-25 15:26:09 --- search futher ce takes time:16
+ [INFO]  2010-08-25 15:26:09 --- search ce takes time:0
+ [INFO]  2010-08-25 15:26:09 --- search futher ce takes time:0
+ [INFO]  2010-08-25 15:26:09 --- search futher ce takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search ec takes time:16
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:15
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:15
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:16
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:47 --- search futher ec takes time:15
+ [INFO]  2010-08-25 16:01:48 --- search ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:01:48 --- search futher ec takes time:0
+ [INFO]  2010-08-25 16:03:16 --- add word exclusive to file C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls\EnglishWords.xls
+ [INFO]  2010-08-25 17:09:53 --- search ec takes time:62
+ [INFO]  2010-08-25 17:09:54 --- search ec takes time:31
+ [INFO]  2010-08-25 17:09:54 --- search ec takes time:31
+ [INFO]  2010-08-25 17:09:54 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:09:54 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:54 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:54 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:09:55 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:09:55 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:55 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:09:56 --- search ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:09:56 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:12:11 --- search ec takes time:16
+ [INFO]  2010-08-25 17:12:11 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:12:11 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:12:11 --- search futher ec takes time:16
+ [INFO]  2010-08-25 17:13:32 --- search ec takes time:31
+ [INFO]  2010-08-25 17:13:32 --- search ec takes time:62
+ [INFO]  2010-08-25 17:13:32 --- search ec takes time:15
+ [INFO]  2010-08-25 17:13:32 --- search ec takes time:16
+ [INFO]  2010-08-25 17:13:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:32 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:32 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:32 --- search futher ec takes time:16
+ [INFO]  2010-08-25 17:13:33 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:33 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:33 --- search ec takes time:15
+ [INFO]  2010-08-25 17:13:33 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:33 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:16
+ [INFO]  2010-08-25 17:13:35 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:35 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:46 --- search ce takes time:31
+ [INFO]  2010-08-25 17:13:46 --- search futher ce takes time:0
+ [INFO]  2010-08-25 17:13:46 --- search ce takes time:0
+ [INFO]  2010-08-25 17:13:46 --- search futher ce takes time:0
+ [INFO]  2010-08-25 17:13:46 --- search futher ce takes time:0
+ [INFO]  2010-08-25 17:13:52 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:52 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:52 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:52 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:52 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:16
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:13:53 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:31
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:15
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:13:53 --- search futher ec takes time:0
+ [INFO]  2010-08-25 17:16:06 --- WordPanel showUp
+ 

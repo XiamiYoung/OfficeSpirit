@@ -1,0 +1,142 @@
+[INFO]  2024-01-09 22:34:01 --- Configuration done.
+ [INFO]  2024-01-09 22:34:01 --- Initializing MainFrame
+ [INFO]  2024-01-09 22:34:03 --- MainFrame show up successfully
+ [INFO]  2024-01-09 22:34:04 --- cn font :华文楷体
+ [INFO]  2024-01-09 22:34:04 --- en font :Comic Sans MS
+ [INFO]  2024-01-09 22:34:04 --- jp font :MS PGothic
+ [INFO]  2024-01-09 22:34:04 --- initiating notice resource.
+ [INFO]  2024-01-09 22:34:04 --- notice resource has been initiated successfully.
+ [INFO]  2024-01-09 22:34:04 --- initiating time counter.
+ [INFO]  2024-01-09 22:34:04 --- time counter has been initiated successfully.
+ [INFO]  2024-01-09 22:34:04 --- initiating tip counter.
+ [INFO]  2024-01-09 22:34:04 --- tip counter has been initiated successfully.
+ [INFO]  2024-01-09 22:34:04 --- initiating dict panels.
+ [INFO]  2024-01-09 22:34:04 --- Updating File History
+ [INFO]  2024-01-09 22:34:04 --- Update File History Successfully.
+ [INFO]  2024-01-09 22:34:04 --- Open history1
+ [INFO]  2024-01-09 22:34:04 --- dict panels has been initiated successfully.
+ [INFO]  2024-01-09 22:34:05 --- search futher jc takes time:56
+ [INFO]  2024-01-09 22:34:05 --- search futher cj takes time:50
+ [INFO]  2024-01-09 22:34:05 --- search futher ec takes time:72
+ [INFO]  2024-01-09 22:34:05 --- search futher ce takes time:34
+ [INFO]  2024-01-09 22:34:10 --- File history1 does not exist.
+ [INFO]  2024-01-09 22:34:14 --- WordPanel shut down
+ [INFO]  2024-01-09 22:34:31 --- Initializing maxTextFrame
+ [INFO]  2024-01-09 22:34:31 --- Initialization done
+ [INFO]  2024-01-09 22:34:36 --- search ec takes time:72
+ [INFO]  2024-01-09 22:34:37 --- search ec takes time:3
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:4
+ [INFO]  2024-01-09 22:34:37 --- search ec takes time:1
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:4
+ [INFO]  2024-01-09 22:34:37 --- search ec takes time:0
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:4
+ [INFO]  2024-01-09 22:34:37 --- search ec takes time:1
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:0
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:34:37 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:34:45 --- WordPanel showUp
+ [INFO]  2024-01-09 22:34:48 --- Creating new sheet
+ [INFO]  2024-01-09 22:34:49 --- No excel,can not create new sheet
+ [INFO]  2024-01-09 22:35:28 --- Loading Content
+ [INFO]  2024-01-09 22:35:30 --- Error in loading the file
+ [INFO]  2024-01-09 22:35:30 --- Updating File History
+ [INFO]  2024-01-09 22:35:30 --- Update File History Successfully.
+ [INFO]  2024-01-09 22:36:52 --- Loading Content
+ [INFO]  2024-01-09 22:36:52 --- Load file sucessfully
+ [INFO]  2024-01-09 22:36:52 --- Load file done
+ [INFO]  2024-01-09 22:36:52 --- Updating File History
+ [INFO]  2024-01-09 22:36:52 --- Update File History Successfully.
+ [INFO]  2024-01-09 22:36:55 --- Updating sheet name
+ [INFO]  2024-01-09 22:36:55 --- Initializing SheetModifyFrame
+ [INFO]  2024-01-09 22:36:55 --- SheetModifyFrame show up
+ [INFO]  2024-01-09 22:37:00 --- Update SheetName.
+ [INFO]  2024-01-09 22:37:02 --- update sheet 20240109 for file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:37:03 --- WordPanel shut down
+ [INFO]  2024-01-09 22:37:10 --- add word young to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:37:11 --- WordPanel showUp
+ [INFO]  2024-01-09 22:37:13 --- WordPanel shut down
+ [INFO]  2024-01-09 22:37:20 --- search ec takes time:73
+ [INFO]  2024-01-09 22:37:20 --- search ec takes time:7
+ [INFO]  2024-01-09 22:37:20 --- search ec takes time:1
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:3
+ [INFO]  2024-01-09 22:37:20 --- search ec takes time:1
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:20 --- search ec takes time:1
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:20 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:26 --- add word snake to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:37:29 --- search ec takes time:9
+ [INFO]  2024-01-09 22:37:29 --- search ec takes time:24
+ [INFO]  2024-01-09 22:37:29 --- search ec takes time:9
+ [INFO]  2024-01-09 22:37:29 --- search futher ec takes time:3
+ [INFO]  2024-01-09 22:37:36 --- add word sun to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:37:38 --- search ec takes time:135
+ [INFO]  2024-01-09 22:37:41 --- search ec takes time:3
+ [INFO]  2024-01-09 22:37:41 --- search ec takes time:2
+ [INFO]  2024-01-09 22:37:41 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:41 --- search ec takes time:1
+ [INFO]  2024-01-09 22:37:41 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:37:41 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:47 --- add word moon to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:37:48 --- WordPanel showUp
+ [INFO]  2024-01-09 22:37:52 --- WordPanel shut down
+ [INFO]  2024-01-09 22:37:54 --- search ec takes time:79
+ [INFO]  2024-01-09 22:37:54 --- search ec takes time:2
+ [INFO]  2024-01-09 22:37:54 --- search futher ec takes time:4
+ [INFO]  2024-01-09 22:37:54 --- search ec takes time:2
+ [INFO]  2024-01-09 22:37:54 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:54 --- search futher ec takes time:3
+ [INFO]  2024-01-09 22:37:55 --- search ec takes time:1
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:3
+ [INFO]  2024-01-09 22:37:55 --- search ec takes time:0
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:1
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:2
+ [INFO]  2024-01-09 22:37:55 --- search futher ec takes time:4
+ [INFO]  2024-01-09 22:38:04 --- add word earth to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:38:05 --- WordPanel showUp
+ [INFO]  2024-01-09 22:38:12 --- WordPanel shut down
+ [INFO]  2024-01-09 22:38:18 --- add word earthbound to file F:\代码\JLeanerProject\JLearner\eng.xls\eng.xls
+ [INFO]  2024-01-09 22:38:19 --- WordPanel showUp
+ [INFO]  2024-01-09 22:38:24 --- Initializing DetailPanel
+ [INFO]  2024-01-09 22:38:24 --- Initialization Done
+ [INFO]  2024-01-09 22:38:24 --- WordPanel shut down
+ [INFO]  2024-01-09 22:38:49 --- WordPanel showUp
+ [INFO]  2024-01-09 22:38:51 --- WordPanel shut down
+ [INFO]  2024-01-09 22:39:07 --- Initializing OptionDialog
+ [INFO]  2024-01-09 22:39:07 --- Initialization done
+ [INFO]  2024-01-09 22:39:26 --- Configuration done.
+ [INFO]  2024-01-09 22:39:26 --- Initializing MainFrame
+ [INFO]  2024-01-09 22:39:27 --- MainFrame show up successfully
+ [INFO]  2024-01-09 22:39:27 --- cn font :华文楷体
+ [INFO]  2024-01-09 22:39:27 --- en font :Comic Sans MS
+ [INFO]  2024-01-09 22:39:27 --- jp font :MS PGothic
+ [INFO]  2024-01-09 22:39:27 --- initiating notice resource.
+ [INFO]  2024-01-09 22:39:27 --- notice resource has been initiated successfully.
+ [INFO]  2024-01-09 22:39:27 --- initiating time counter.
+ [INFO]  2024-01-09 22:39:27 --- time counter has been initiated successfully.
+ [INFO]  2024-01-09 22:39:27 --- initiating tip counter.
+ [INFO]  2024-01-09 22:39:27 --- tip counter has been initiated successfully.
+ [INFO]  2024-01-09 22:39:27 --- initiating dict panels.
+ [INFO]  2024-01-09 22:39:27 --- dict panels has been initiated successfully.
+ [INFO]  2024-01-09 22:39:27 --- Updating File History
+ [INFO]  2024-01-09 22:39:27 --- Update File History Successfully.
+ [INFO]  2024-01-09 22:39:27 --- Open history1
+ [INFO]  2024-01-09 22:39:27 --- File F:\代码\JLeanerProject\JLearner\eng.xls loaded successfully
+ [INFO]  2024-01-09 22:39:27 --- Loading Content
+ [INFO]  2024-01-09 22:39:28 --- Load file sucessfully
+ [INFO]  2024-01-09 22:39:28 --- Load file done
+ [INFO]  2024-01-09 22:39:28 --- search futher jc takes time:42
+ [INFO]  2024-01-09 22:39:28 --- search futher cj takes time:37
+ [INFO]  2024-01-09 22:39:28 --- search futher ec takes time:31
+ [INFO]  2024-01-09 22:39:28 --- search futher ce takes time:20
+ [INFO]  2024-01-09 22:39:29 --- WordPanel shut down
+ 

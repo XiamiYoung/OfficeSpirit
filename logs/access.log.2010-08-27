@@ -1,0 +1,535 @@
+[INFO]  2010-08-27 14:07:31 --- Configuration done.
+ [INFO]  2010-08-27 14:07:31 --- Initializing MainFrame
+ [INFO]  2010-08-27 14:07:31 --- MainFrame show up successfully
+ [INFO]  2010-08-27 14:07:33 --- cn font :?文楷体
+ [INFO]  2010-08-27 14:07:33 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 14:07:33 --- jp font :MS PGothic
+ [INFO]  2010-08-27 14:07:33 --- initiating notice resource.
+ [INFO]  2010-08-27 14:07:33 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 14:07:33 --- initiating time counter.
+ [INFO]  2010-08-27 14:07:33 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 14:07:33 --- initiating tip counter.
+ [INFO]  2010-08-27 14:07:34 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 14:07:34 --- initiating dict panels.
+ [INFO]  2010-08-27 14:07:35 --- Updating File History
+ [INFO]  2010-08-27 14:07:35 --- Update File History Successfully.
+ [INFO]  2010-08-27 14:07:35 --- Open history1
+ [INFO]  2010-08-27 14:07:35 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-27 14:07:35 --- Loading Content
+ [INFO]  2010-08-27 14:07:36 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 14:07:36 --- Load file sucessfully
+ [INFO]  2010-08-27 14:07:36 --- Load file done
+ [INFO]  2010-08-27 14:07:37 --- search futher jc takes time:156
+ [INFO]  2010-08-27 14:07:37 --- search futher cj takes time:172
+ [INFO]  2010-08-27 14:07:38 --- search futher ec takes time:359
+ [INFO]  2010-08-27 14:07:38 --- search futher ce takes time:328
+ [INFO]  2010-08-27 14:07:41 --- Loading Content
+ [INFO]  2010-08-27 14:07:41 --- Load file sucessfully
+ [INFO]  2010-08-27 14:07:41 --- Load file done
+ [INFO]  2010-08-27 14:07:41 --- Updating File History
+ [INFO]  2010-08-27 14:07:41 --- Update File History Successfully.
+ [INFO]  2010-08-27 14:07:42 --- Load sheet :8
+ [INFO]  2010-08-27 14:16:31 --- Configuration done.
+ [INFO]  2010-08-27 14:16:31 --- Initializing MainFrame
+ [INFO]  2010-08-27 14:16:31 --- MainFrame show up successfully
+ [INFO]  2010-08-27 14:16:32 --- cn font :?文楷体
+ [INFO]  2010-08-27 14:16:32 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 14:16:32 --- jp font :MS PGothic
+ [INFO]  2010-08-27 14:16:32 --- initiating notice resource.
+ [INFO]  2010-08-27 14:16:32 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 14:16:32 --- initiating time counter.
+ [INFO]  2010-08-27 14:16:32 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 14:16:32 --- initiating tip counter.
+ [INFO]  2010-08-27 14:16:32 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 14:16:32 --- initiating dict panels.
+ [INFO]  2010-08-27 14:16:33 --- Updating File History
+ [INFO]  2010-08-27 14:16:33 --- Update File History Successfully.
+ [INFO]  2010-08-27 14:16:33 --- Open history1
+ [INFO]  2010-08-27 14:16:33 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 14:16:33 --- Loading Content
+ [INFO]  2010-08-27 14:16:34 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 14:16:34 --- Load file sucessfully
+ [INFO]  2010-08-27 14:16:34 --- Load file done
+ [INFO]  2010-08-27 14:16:34 --- search futher jc takes time:140
+ [INFO]  2010-08-27 14:16:34 --- search futher cj takes time:78
+ [INFO]  2010-08-27 14:16:35 --- search futher ec takes time:296
+ [INFO]  2010-08-27 14:16:35 --- search futher ce takes time:218
+ [INFO]  2010-08-27 14:16:35 --- Load sheet :7
+ [INFO]  2010-08-27 14:16:55 --- Initializing DetailPanel
+ [INFO]  2010-08-27 14:16:55 --- Initialization Done
+ [INFO]  2010-08-27 14:16:55 --- WordPanel shut down
+ [INFO]  2010-08-27 14:17:02 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:17:02 --- update word for 7
+ [INFO]  2010-08-27 14:18:36 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:18:36 --- update word for 7
+ [INFO]  2010-08-27 14:18:43 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:18:43 --- update word for 7
+ [INFO]  2010-08-27 14:18:47 --- WordPanel showUp
+ [INFO]  2010-08-27 14:18:48 --- Load sheet :6
+ [INFO]  2010-08-27 14:18:48 --- DetailPanel show up
+ [INFO]  2010-08-27 14:18:48 --- WordPanel shut down
+ [INFO]  2010-08-27 14:19:12 --- WordPanel showUp
+ [INFO]  2010-08-27 14:20:30 --- DetailPanel show up
+ [INFO]  2010-08-27 14:20:30 --- WordPanel shut down
+ [INFO]  2010-08-27 14:20:31 --- WordPanel showUp
+ [INFO]  2010-08-27 14:20:32 --- Load sheet :5
+ [INFO]  2010-08-27 14:20:33 --- DetailPanel show up
+ [INFO]  2010-08-27 14:20:33 --- WordPanel shut down
+ [INFO]  2010-08-27 14:21:10 --- WordPanel showUp
+ [INFO]  2010-08-27 14:21:11 --- Load sheet :4
+ [INFO]  2010-08-27 14:21:11 --- DetailPanel show up
+ [INFO]  2010-08-27 14:21:11 --- WordPanel shut down
+ [INFO]  2010-08-27 14:21:18 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:18 --- update word for 4
+ [INFO]  2010-08-27 14:21:33 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:33 --- update word for 4
+ [INFO]  2010-08-27 14:21:40 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:40 --- update word for 4
+ [INFO]  2010-08-27 14:21:44 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:44 --- update word for 4
+ [INFO]  2010-08-27 14:21:52 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:52 --- update word for 4
+ [INFO]  2010-08-27 14:21:58 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:21:58 --- update word for 4
+ [INFO]  2010-08-27 14:22:02 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:22:02 --- update word for 4
+ [INFO]  2010-08-27 14:22:13 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:22:13 --- update word for 4
+ [INFO]  2010-08-27 14:22:14 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:22:14 --- update word for 4
+ [INFO]  2010-08-27 14:22:21 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:22:21 --- update word for 4
+ [INFO]  2010-08-27 14:22:28 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:22:28 --- update word for 4
+ [INFO]  2010-08-27 14:22:33 --- WordPanel showUp
+ [INFO]  2010-08-27 14:22:57 --- Load sheet :3
+ [INFO]  2010-08-27 14:22:57 --- DetailPanel show up
+ [INFO]  2010-08-27 14:22:57 --- WordPanel shut down
+ [INFO]  2010-08-27 14:23:25 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:23:25 --- update word for 3
+ [INFO]  2010-08-27 14:24:56 --- add word Howard 的意思是？ to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 14:25:18 --- WordPanel showUp
+ [INFO]  2010-08-27 14:31:30 --- tip window show up.
+ [INFO]  2010-08-27 14:36:16 --- Load sheet :1
+ [INFO]  2010-08-27 14:36:16 --- Load sheet :2
+ [INFO]  2010-08-27 14:36:16 --- Load sheet :3
+ [INFO]  2010-08-27 14:36:17 --- Load sheet :4
+ [INFO]  2010-08-27 14:36:17 --- Load sheet :6
+ [INFO]  2010-08-27 14:36:17 --- Load sheet :7
+ [INFO]  2010-08-27 14:36:18 --- Load sheet :8
+ [INFO]  2010-08-27 14:36:18 --- Load sheet :2
+ [INFO]  2010-08-27 14:36:19 --- Load sheet :1
+ [INFO]  2010-08-27 14:36:19 --- Load sheet :2
+ [INFO]  2010-08-27 14:36:20 --- Load sheet :3
+ [INFO]  2010-08-27 14:36:20 --- Load sheet :5
+ [INFO]  2010-08-27 14:36:21 --- Load sheet :6
+ [INFO]  2010-08-27 14:36:21 --- Load sheet :7
+ [INFO]  2010-08-27 14:36:22 --- Load sheet :8
+ [INFO]  2010-08-27 14:36:34 --- Loading Content
+ [INFO]  2010-08-27 14:36:34 --- Load file sucessfully
+ [INFO]  2010-08-27 14:36:34 --- Load file done
+ [INFO]  2010-08-27 14:36:34 --- Updating File History
+ [INFO]  2010-08-27 14:36:34 --- Update File History Successfully.
+ [INFO]  2010-08-27 14:36:36 --- Load sheet :0820
+ [INFO]  2010-08-27 14:36:37 --- Load sheet :0817
+ [INFO]  2010-08-27 14:36:39 --- Load sheet :0805
+ [INFO]  2010-08-27 14:36:40 --- Load sheet :0803
+ [INFO]  2010-08-27 14:36:41 --- Load sheet :0730
+ [INFO]  2010-08-27 14:36:42 --- Load sheet :0729
+ [INFO]  2010-08-27 14:36:44 --- Load sheet :0726
+ [INFO]  2010-08-27 14:36:45 --- Load sheet :0721
+ [INFO]  2010-08-27 14:36:46 --- Load sheet :0720
+ [INFO]  2010-08-27 14:36:46 --- Load sheet :0719
+ [INFO]  2010-08-27 14:36:49 --- DetailPanel show up
+ [INFO]  2010-08-27 14:36:49 --- WordPanel shut down
+ [INFO]  2010-08-27 14:40:09 --- WordPanel showUp
+ [INFO]  2010-08-27 14:40:10 --- Load sheet :0720
+ [INFO]  2010-08-27 14:40:11 --- Load sheet :0719
+ [INFO]  2010-08-27 14:40:11 --- Load sheet :0716
+ [INFO]  2010-08-27 14:40:12 --- Load sheet :0714
+ [INFO]  2010-08-27 14:40:12 --- Load sheet :0603
+ [INFO]  2010-08-27 14:40:13 --- Load sheet :0719
+ [INFO]  2010-08-27 14:40:13 --- Load sheet :0716
+ [INFO]  2010-08-27 14:40:13 --- Load sheet :0719
+ [INFO]  2010-08-27 14:40:14 --- Load sheet :0721
+ [INFO]  2010-08-27 14:40:14 --- Load sheet :0720
+ [INFO]  2010-08-27 14:40:15 --- Load sheet :0719
+ [INFO]  2010-08-27 14:40:16 --- Load sheet :0603
+ [INFO]  2010-08-27 14:40:16 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-27 14:40:16 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-27 14:40:42 --- Loading Content
+ [INFO]  2010-08-27 14:40:42 --- Load file sucessfully
+ [INFO]  2010-08-27 14:40:42 --- Load file done
+ [INFO]  2010-08-27 14:40:42 --- Updating File History
+ [INFO]  2010-08-27 14:40:42 --- Update File History Successfully.
+ [INFO]  2010-08-27 14:40:43 --- Load sheet :7
+ [INFO]  2010-08-27 14:40:44 --- Load sheet :8
+ [INFO]  2010-08-27 14:40:45 --- Load sheet :6
+ [INFO]  2010-08-27 14:40:45 --- Load sheet :4
+ [INFO]  2010-08-27 14:40:45 --- Load sheet :2
+ [INFO]  2010-08-27 14:40:46 --- Load sheet :1
+ [INFO]  2010-08-27 14:40:46 --- Load sheet :2
+ [INFO]  2010-08-27 14:40:47 --- Load sheet :3
+ [INFO]  2010-08-27 14:40:47 --- Load sheet :4
+ [INFO]  2010-08-27 14:40:57 --- Updating sheet name
+ [INFO]  2010-08-27 14:40:57 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 14:40:57 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 14:41:00 --- Load sheet :2
+ [INFO]  2010-08-27 14:41:01 --- Load sheet :1
+ [INFO]  2010-08-27 14:41:11 --- Initializing OptionDialog
+ [INFO]  2010-08-27 14:41:11 --- Initialization done
+ [INFO]  2010-08-27 14:41:24 --- OptionDialog show up
+ [INFO]  2010-08-27 14:41:47 --- Initializing SearchFrame
+ [INFO]  2010-08-27 14:41:47 --- Initializationg done
+ [INFO]  2010-08-27 14:41:54 --- Open DetailPanel
+ [INFO]  2010-08-27 14:41:54 --- DetailPanel show up
+ [INFO]  2010-08-27 14:41:54 --- WordPanel shut down
+ [INFO]  2010-08-27 14:41:58 --- WordPanel showUp
+ [INFO]  2010-08-27 14:41:59 --- Load sheet :2
+ [INFO]  2010-08-27 14:41:59 --- DetailPanel show up
+ [INFO]  2010-08-27 14:41:59 --- WordPanel shut down
+ [INFO]  2010-08-27 14:42:03 --- WordPanel showUp
+ [INFO]  2010-08-27 14:42:08 --- WordPanel shut down
+ [INFO]  2010-08-27 14:45:20 --- WordPanel showUp
+ [INFO]  2010-08-27 14:45:22 --- WordPanel shut down
+ [INFO]  2010-08-27 14:45:24 --- WordPanel showUp
+ [INFO]  2010-08-27 14:45:25 --- Load sheet :1
+ [INFO]  2010-08-27 14:45:25 --- Load sheet :2
+ [INFO]  2010-08-27 14:45:26 --- Load sheet :3
+ [INFO]  2010-08-27 14:45:26 --- Load sheet :4
+ [INFO]  2010-08-27 14:45:26 --- Load sheet :5
+ [INFO]  2010-08-27 14:45:27 --- Load sheet :6
+ [INFO]  2010-08-27 14:45:28 --- Load sheet :7
+ [INFO]  2010-08-27 14:45:28 --- Load sheet :8
+ [INFO]  2010-08-27 14:45:29 --- Load sheet :7
+ [INFO]  2010-08-27 14:45:29 --- Load sheet :5
+ [INFO]  2010-08-27 14:45:29 --- Load sheet :4
+ [INFO]  2010-08-27 14:45:30 --- Load sheet :3
+ [INFO]  2010-08-27 14:45:30 --- Load sheet :2
+ [INFO]  2010-08-27 14:45:30 --- Load sheet :1
+ [INFO]  2010-08-27 14:45:31 --- Load sheet :3
+ [INFO]  2010-08-27 14:45:32 --- Load sheet :4
+ [INFO]  2010-08-27 15:34:27 --- Configuration done.
+ [INFO]  2010-08-27 15:34:27 --- Initializing MainFrame
+ [INFO]  2010-08-27 15:34:28 --- MainFrame show up successfully
+ [INFO]  2010-08-27 15:34:28 --- cn font :?文楷体
+ [INFO]  2010-08-27 15:34:28 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 15:34:28 --- jp font :MS PGothic
+ [INFO]  2010-08-27 15:34:29 --- initiating notice resource.
+ [INFO]  2010-08-27 15:34:29 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 15:34:29 --- initiating time counter.
+ [INFO]  2010-08-27 15:34:29 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 15:34:29 --- initiating tip counter.
+ [INFO]  2010-08-27 15:34:29 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 15:34:29 --- initiating dict panels.
+ [INFO]  2010-08-27 15:34:29 --- Updating File History
+ [INFO]  2010-08-27 15:34:29 --- Update File History Successfully.
+ [INFO]  2010-08-27 15:34:29 --- Open history1
+ [INFO]  2010-08-27 15:34:29 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 15:34:29 --- Loading Content
+ [INFO]  2010-08-27 15:34:29 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 15:34:29 --- Load file sucessfully
+ [INFO]  2010-08-27 15:34:29 --- Load file done
+ [INFO]  2010-08-27 15:34:30 --- search futher jc takes time:168
+ [INFO]  2010-08-27 15:34:30 --- search futher cj takes time:98
+ [INFO]  2010-08-27 15:34:30 --- search futher ec takes time:239
+ [INFO]  2010-08-27 15:34:31 --- search futher ce takes time:210
+ [INFO]  2010-08-27 15:48:44 --- tip window show up.
+ [INFO]  2010-08-27 16:19:16 --- Load sheet :3
+ [INFO]  2010-08-27 16:21:19 --- Configuration done.
+ [INFO]  2010-08-27 16:21:19 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:21:19 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:21:20 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:21:20 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:21:20 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:21:20 --- initiating notice resource.
+ [INFO]  2010-08-27 16:21:20 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:21:20 --- initiating time counter.
+ [INFO]  2010-08-27 16:21:20 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:21:20 --- initiating tip counter.
+ [INFO]  2010-08-27 16:21:20 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:21:20 --- initiating dict panels.
+ [INFO]  2010-08-27 16:21:20 --- Updating File History
+ [INFO]  2010-08-27 16:21:20 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:21:20 --- Open history1
+ [INFO]  2010-08-27 16:21:20 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:21:20 --- Loading Content
+ [INFO]  2010-08-27 16:21:21 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:21:21 --- Load file sucessfully
+ [INFO]  2010-08-27 16:21:21 --- Load file done
+ [INFO]  2010-08-27 16:21:21 --- search futher jc takes time:187
+ [INFO]  2010-08-27 16:21:21 --- search futher cj takes time:109
+ [INFO]  2010-08-27 16:21:22 --- search futher ec takes time:234
+ [INFO]  2010-08-27 16:21:22 --- search futher ce takes time:218
+ [INFO]  2010-08-27 16:21:23 --- Load sheet :5
+ [INFO]  2010-08-27 16:23:37 --- Configuration done.
+ [INFO]  2010-08-27 16:23:37 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:23:38 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:23:38 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:23:38 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:23:38 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:23:38 --- initiating notice resource.
+ [INFO]  2010-08-27 16:23:38 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:23:38 --- initiating time counter.
+ [INFO]  2010-08-27 16:23:38 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:23:38 --- initiating tip counter.
+ [INFO]  2010-08-27 16:23:38 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:23:38 --- initiating dict panels.
+ [INFO]  2010-08-27 16:23:39 --- Updating File History
+ [INFO]  2010-08-27 16:23:39 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:23:39 --- Open history1
+ [INFO]  2010-08-27 16:23:39 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:23:39 --- Loading Content
+ [INFO]  2010-08-27 16:23:39 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:23:39 --- Load file sucessfully
+ [INFO]  2010-08-27 16:23:39 --- Load file done
+ [INFO]  2010-08-27 16:23:40 --- search futher jc takes time:203
+ [INFO]  2010-08-27 16:23:40 --- search futher cj takes time:125
+ [INFO]  2010-08-27 16:23:40 --- search futher ec takes time:218
+ [INFO]  2010-08-27 16:23:40 --- search futher ce takes time:234
+ [INFO]  2010-08-27 16:23:42 --- Load sheet :6
+ [INFO]  2010-08-27 16:23:43 --- Load sheet :7
+ [INFO]  2010-08-27 16:25:47 --- Configuration done.
+ [INFO]  2010-08-27 16:25:47 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:25:48 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:25:48 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:25:48 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:25:48 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:25:48 --- initiating notice resource.
+ [INFO]  2010-08-27 16:25:48 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:25:48 --- initiating time counter.
+ [INFO]  2010-08-27 16:25:48 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:25:48 --- initiating tip counter.
+ [INFO]  2010-08-27 16:25:48 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:25:48 --- initiating dict panels.
+ [INFO]  2010-08-27 16:25:49 --- Updating File History
+ [INFO]  2010-08-27 16:25:49 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:25:49 --- Open history1
+ [INFO]  2010-08-27 16:25:49 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:25:49 --- Loading Content
+ [INFO]  2010-08-27 16:25:49 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:25:49 --- Load file sucessfully
+ [INFO]  2010-08-27 16:25:49 --- Load file done
+ [INFO]  2010-08-27 16:25:49 --- WordPanel shut down
+ [INFO]  2010-08-27 16:25:50 --- search futher jc takes time:200
+ [INFO]  2010-08-27 16:25:50 --- search futher cj takes time:62
+ [INFO]  2010-08-27 16:25:50 --- search futher ec takes time:246
+ [INFO]  2010-08-27 16:25:50 --- search futher ce takes time:215
+ [INFO]  2010-08-27 16:25:52 --- WordPanel showUp
+ [INFO]  2010-08-27 16:25:53 --- Load sheet :7
+ [INFO]  2010-08-27 16:27:56 --- requesting url:http://www.iciba.com/
+ [INFO]  2010-08-27 16:28:37 --- Load sheet :8
+ [INFO]  2010-08-27 16:28:37 --- Creating new sheet
+ [INFO]  2010-08-27 16:28:37 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 16:28:37 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 16:30:35 --- Creating new sheet
+ [INFO]  2010-08-27 16:30:35 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 16:30:35 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 16:30:39 --- add New Sheet
+ [INFO]  2010-08-27 16:30:39 --- add sheet demo to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:30:39 --- scrollToView
+ [INFO]  2010-08-27 16:30:39 --- Initializing DetailPanel
+ [INFO]  2010-08-27 16:30:39 --- Initialization Done
+ [INFO]  2010-08-27 16:30:39 --- WordPanel shut down
+ [INFO]  2010-08-27 16:31:19 --- add word toadeater 的意思是？  to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:31:53 --- add word ?愿? 怎??？ to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:32:39 --- add word swallowtail 的意思是？  to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:33:12 --- add word ciao 的意思是？  to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:33:47 --- add word 歌舞伎 怎?? to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:33:48 --- WordPanel showUp
+ [INFO]  2010-08-27 16:33:58 --- Load sheet :2
+ [INFO]  2010-08-27 16:33:59 --- Load sheet :1
+ [INFO]  2010-08-27 16:33:59 --- Load sheet :3
+ [INFO]  2010-08-27 16:33:59 --- Load sheet :5
+ [INFO]  2010-08-27 16:34:00 --- Load sheet :6
+ [INFO]  2010-08-27 16:34:01 --- Load sheet :7
+ [INFO]  2010-08-27 16:34:01 --- Load sheet :8
+ [INFO]  2010-08-27 16:34:06 --- Load sheet :1
+ [INFO]  2010-08-27 16:34:07 --- Load sheet :8
+ [INFO]  2010-08-27 16:34:08 --- Load sheet :1
+ [INFO]  2010-08-27 16:34:11 --- Load sheet :2
+ [INFO]  2010-08-27 16:34:11 --- Load sheet :3
+ [INFO]  2010-08-27 16:34:11 --- Load sheet :5
+ [INFO]  2010-08-27 16:34:12 --- Load sheet :6
+ [INFO]  2010-08-27 16:34:12 --- Load sheet :7
+ [INFO]  2010-08-27 16:34:12 --- Load sheet :8
+ [INFO]  2010-08-27 16:34:13 --- Load sheet :7
+ [INFO]  2010-08-27 16:34:13 --- Load sheet :4
+ [INFO]  2010-08-27 16:34:13 --- Load sheet :1
+ [INFO]  2010-08-27 16:35:09 --- Load sheet :2
+ [INFO]  2010-08-27 16:35:09 --- Load sheet :1
+ [INFO]  2010-08-27 16:35:09 --- Load sheet :2
+ [INFO]  2010-08-27 16:35:10 --- Load sheet :3
+ [INFO]  2010-08-27 16:35:10 --- Load sheet :4
+ [INFO]  2010-08-27 16:35:11 --- Load sheet :5
+ [INFO]  2010-08-27 16:35:11 --- Load sheet :7
+ [INFO]  2010-08-27 16:35:11 --- Load sheet :8
+ [INFO]  2010-08-27 16:35:13 --- Load sheet :1
+ [INFO]  2010-08-27 16:35:22 --- Load sheet :2
+ [INFO]  2010-08-27 16:35:36 --- Load sheet :1
+ [INFO]  2010-08-27 16:35:40 --- Load sheet :2
+ [INFO]  2010-08-27 16:35:41 --- Load sheet :1
+ [INFO]  2010-08-27 16:35:59 --- Load sheet :demo
+ [INFO]  2010-08-27 16:36:00 --- Load sheet :1
+ [INFO]  2010-08-27 16:36:01 --- Load sheet :demo
+ [INFO]  2010-08-27 16:36:02 --- Load sheet :1
+ [INFO]  2010-08-27 16:36:03 --- Load sheet :demo
+ [INFO]  2010-08-27 16:36:04 --- DetailPanel show up
+ [INFO]  2010-08-27 16:36:04 --- WordPanel shut down
+ [INFO]  2010-08-27 16:36:06 --- WordPanel showUp
+ [INFO]  2010-08-27 16:40:42 --- tip window show up.
+ [INFO]  2010-08-27 16:43:15 --- Load sheet :8
+ [INFO]  2010-08-27 16:43:15 --- Load sheet :demo
+ [INFO]  2010-08-27 16:43:21 --- Load sheet :1
+ [INFO]  2010-08-27 16:43:22 --- Load sheet :demo
+ [INFO]  2010-08-27 16:43:26 --- Load sheet :1
+ [INFO]  2010-08-27 16:43:27 --- Load sheet :2
+ [INFO]  2010-08-27 16:43:27 --- Load sheet :4
+ [INFO]  2010-08-27 16:43:27 --- Load sheet :5
+ [INFO]  2010-08-27 16:43:27 --- Load sheet :7
+ [INFO]  2010-08-27 16:43:28 --- Load sheet :8
+ [INFO]  2010-08-27 16:43:30 --- Load sheet :1
+ [INFO]  2010-08-27 16:43:48 --- Updating sheet name
+ [INFO]  2010-08-27 16:43:48 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 16:43:48 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 16:43:58 --- Update SheetName.
+ [INFO]  2010-08-27 16:43:59 --- update sheet Peter for file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:44:00 --- Load sheet :4
+ [INFO]  2010-08-27 16:44:01 --- Load sheet :Peter
+ [INFO]  2010-08-27 16:44:08 --- Updating sheet name
+ [INFO]  2010-08-27 16:44:08 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 16:44:09 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 16:44:18 --- Update SheetName.
+ [INFO]  2010-08-27 16:44:19 --- update sheet Peter(29.0034) for file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:44:21 --- Updating sheet name
+ [INFO]  2010-08-27 16:44:21 --- Initializing SheetModifyFrame
+ [INFO]  2010-08-27 16:44:21 --- SheetModifyFrame show up
+ [INFO]  2010-08-27 16:44:22 --- Update SheetName.
+ [INFO]  2010-08-27 16:44:23 --- update sheet 1 for file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:44:24 --- Load sheet :5
+ [INFO]  2010-08-27 16:44:24 --- Load sheet :1
+ [INFO]  2010-08-27 16:45:56 --- Configuration done.
+ [INFO]  2010-08-27 16:45:56 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:45:56 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:45:56 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:45:56 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:45:56 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:45:57 --- initiating notice resource.
+ [INFO]  2010-08-27 16:45:57 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:45:57 --- initiating time counter.
+ [INFO]  2010-08-27 16:45:57 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:45:57 --- initiating tip counter.
+ [INFO]  2010-08-27 16:45:57 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:45:57 --- initiating dict panels.
+ [INFO]  2010-08-27 16:45:57 --- Updating File History
+ [INFO]  2010-08-27 16:45:57 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:45:57 --- Open history1
+ [INFO]  2010-08-27 16:45:57 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:45:57 --- Loading Content
+ [INFO]  2010-08-27 16:45:57 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:45:58 --- Load file sucessfully
+ [INFO]  2010-08-27 16:45:58 --- Load file done
+ [INFO]  2010-08-27 16:45:58 --- search futher jc takes time:231
+ [INFO]  2010-08-27 16:45:58 --- search futher cj takes time:93
+ [INFO]  2010-08-27 16:45:58 --- search futher ec takes time:231
+ [INFO]  2010-08-27 16:45:59 --- search futher ce takes time:200
+ [INFO]  2010-08-27 16:46:11 --- Configuration done.
+ [INFO]  2010-08-27 16:46:11 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:46:12 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:46:12 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:46:12 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:46:12 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:46:12 --- initiating notice resource.
+ [INFO]  2010-08-27 16:46:12 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:46:12 --- initiating time counter.
+ [INFO]  2010-08-27 16:46:12 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:46:12 --- initiating tip counter.
+ [INFO]  2010-08-27 16:46:12 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:46:12 --- initiating dict panels.
+ [INFO]  2010-08-27 16:46:13 --- Updating File History
+ [INFO]  2010-08-27 16:46:13 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:46:13 --- Open history1
+ [INFO]  2010-08-27 16:46:13 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:46:13 --- Loading Content
+ [INFO]  2010-08-27 16:46:13 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:46:13 --- Load file sucessfully
+ [INFO]  2010-08-27 16:46:13 --- Load file done
+ [INFO]  2010-08-27 16:46:14 --- search futher jc takes time:216
+ [INFO]  2010-08-27 16:46:14 --- search futher cj takes time:92
+ [INFO]  2010-08-27 16:46:14 --- search futher ec takes time:309
+ [INFO]  2010-08-27 16:46:14 --- search futher ce takes time:216
+ [INFO]  2010-08-27 16:46:58 --- requesting url:http://www.baidu.com/
+ [INFO]  2010-08-27 16:47:11 --- Initializing OptionDialog
+ [INFO]  2010-08-27 16:47:11 --- Initialization done
+ [INFO]  2010-08-27 16:47:54 --- Configuration done.
+ [INFO]  2010-08-27 16:47:54 --- Initializing MainFrame
+ [INFO]  2010-08-27 16:47:55 --- MainFrame show up successfully
+ [INFO]  2010-08-27 16:47:55 --- cn font :?文楷体
+ [INFO]  2010-08-27 16:47:55 --- en font :Comic Sans MS
+ [INFO]  2010-08-27 16:47:55 --- jp font :MS PGothic
+ [INFO]  2010-08-27 16:47:55 --- initiating notice resource.
+ [INFO]  2010-08-27 16:47:55 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-27 16:47:55 --- initiating time counter.
+ [INFO]  2010-08-27 16:47:55 --- time counter has been initiated successfully.
+ [INFO]  2010-08-27 16:47:55 --- initiating tip counter.
+ [INFO]  2010-08-27 16:47:55 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-27 16:47:55 --- initiating dict panels.
+ [INFO]  2010-08-27 16:47:56 --- Updating File History
+ [INFO]  2010-08-27 16:47:56 --- Update File History Successfully.
+ [INFO]  2010-08-27 16:47:56 --- Open history1
+ [INFO]  2010-08-27 16:47:56 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-08-27 16:47:56 --- Loading Content
+ [INFO]  2010-08-27 16:47:56 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-27 16:47:56 --- Load file sucessfully
+ [INFO]  2010-08-27 16:47:56 --- Load file done
+ [INFO]  2010-08-27 16:47:57 --- search futher jc takes time:218
+ [INFO]  2010-08-27 16:47:57 --- search futher cj takes time:46
+ [INFO]  2010-08-27 16:47:57 --- search futher ec takes time:233
+ [INFO]  2010-08-27 16:47:57 --- search futher ce takes time:233
+ [INFO]  2010-08-27 16:48:01 --- Initializing OptionDialog
+ [INFO]  2010-08-27 16:48:01 --- Initialization done
+ [INFO]  2010-08-27 16:48:12 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:14 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:15 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:16 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:16 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:17 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:18 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:18 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:19 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:20 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:20 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:23 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:23 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:25 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:25 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:26 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:27 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:27 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:28 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:32 --- WordPanel showUp
+ [INFO]  2010-08-27 16:48:33 --- WordPanel shut down
+ [INFO]  2010-08-27 16:48:43 --- Initializing maxTextFrame
+ [INFO]  2010-08-27 16:48:43 --- Initialization done
+ [INFO]  2010-08-27 16:48:54 --- maxTextFrame show up
+ [INFO]  2010-08-27 16:49:13 --- search ec takes time:78
+ [INFO]  2010-08-27 16:49:13 --- search ec takes time:16
+ [INFO]  2010-08-27 16:49:23 --- WordPanel showUp
+ [INFO]  2010-08-27 16:49:25 --- WordPanel shut down
+ [INFO]  2010-08-27 16:49:45 --- add word to to file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:49:48 --- WordPanel showUp
+ [INFO]  2010-08-27 16:49:57 --- Initializing DetailPanel
+ [INFO]  2010-08-27 16:49:57 --- Initialization Done
+ [INFO]  2010-08-27 16:49:57 --- WordPanel shut down
+ [INFO]  2010-08-27 16:50:07 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:50:07 --- update word for demo
+ [INFO]  2010-08-27 16:50:10 --- update file C:\Documents and Settings\xueyy\Desktop\puzzle.xls\puzzle.xls
+ [INFO]  2010-08-27 16:50:10 --- update word for demo
+ [INFO]  2010-08-27 16:50:20 --- WordPanel showUp
+ [INFO]  2010-08-27 16:50:26 --- WordPanel shut down
+ [INFO]  2010-08-27 16:50:34 --- initiating excel.application
+ [INFO]  2010-08-27 16:50:36 --- initiation done
+ [INFO]  2010-08-27 16:50:36 --- ready to quit excel.application
+ [INFO]  2010-08-27 16:50:36 --- quit excel.application
+ [INFO]  2010-08-27 16:51:07 --- WordPanel showUp
+ 

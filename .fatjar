@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Nov 09 17:21:49 CST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JLearner.jar
+manifest.mergeall=true
+manifest.mainclass=com.xiami.app.starter
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|systray4j.jar>;<jar|dom4j-1.6.1.jar>;<jar|jacob.jar>;<jar|jaxen-1.1-beta-6.jar>;<jar|liquidlnf.jar>;<jar|log4j-1.2.12.jar>;<jar|lucene-core-3.0.1.jar>;<jar|nimrodlf-1.0g.jar>;<jar|OfficeLnFs_2.7.jar>;<jar|PgsLookAndFeel.jar>;<jar|poi-3.6-20091214.jar>;<jar|registry.jar>
+includes=

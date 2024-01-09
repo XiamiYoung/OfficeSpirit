@@ -1,0 +1,354 @@
+[INFO]  2010-11-03 09:04:43 --- Configuration done.
+ [INFO]  2010-11-03 09:04:43 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:04:45 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:04:46 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:04:46 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:04:46 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:04:46 --- initiating notice resource.
+ [INFO]  2010-11-03 09:04:47 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:04:47 --- initiating time counter.
+ [INFO]  2010-11-03 09:04:47 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:04:47 --- initiating tip counter.
+ [INFO]  2010-11-03 09:04:47 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:04:47 --- initiating dict panels.
+ [INFO]  2010-11-03 09:04:47 --- Updating File History
+ [INFO]  2010-11-03 09:04:47 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:04:47 --- Open history1
+ [INFO]  2010-11-03 09:04:47 --- File C:\Documents and Settings\xueyy\Desktop\puzzle.xls loaded successfully
+ [INFO]  2010-11-03 09:04:47 --- Loading Content
+ [INFO]  2010-11-03 09:04:48 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:04:48 --- Load file sucessfully
+ [INFO]  2010-11-03 09:04:48 --- Load file done
+ [INFO]  2010-11-03 09:04:49 --- search futher jc takes time:235
+ [INFO]  2010-11-03 09:04:49 --- search futher cj takes time:125
+ [INFO]  2010-11-03 09:04:50 --- search futher ec takes time:297
+ [INFO]  2010-11-03 09:04:50 --- search futher ce takes time:281
+ [INFO]  2010-11-03 09:04:53 --- Loading Content
+ [INFO]  2010-11-03 09:04:53 --- Load file sucessfully
+ [INFO]  2010-11-03 09:04:53 --- Load file done
+ [INFO]  2010-11-03 09:04:53 --- Updating File History
+ [INFO]  2010-11-03 09:04:53 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:04:59 --- Load sheet :20101101
+ [INFO]  2010-11-03 09:05:00 --- Load sheet :20101026
+ [INFO]  2010-11-03 09:05:01 --- Load sheet :20101029
+ [INFO]  2010-11-03 09:05:01 --- Load sheet :20101102
+ [INFO]  2010-11-03 09:05:02 --- Load sheet :20101101
+ [INFO]  2010-11-03 09:05:03 --- Load sheet :20101029
+ [INFO]  2010-11-03 09:05:03 --- Load sheet :20101101
+ [INFO]  2010-11-03 09:05:04 --- Load sheet :20101001
+ [INFO]  2010-11-03 09:05:05 --- Load sheet :20100820
+ [INFO]  2010-11-03 09:05:05 --- Load sheet :20100805
+ [INFO]  2010-11-03 09:05:06 --- Load sheet :20100730
+ [INFO]  2010-11-03 09:05:07 --- Load sheet :20100824
+ [INFO]  2010-11-03 09:05:08 --- Load sheet :20100826
+ [INFO]  2010-11-03 09:05:08 --- Load sheet :20100906
+ [INFO]  2010-11-03 09:05:15 --- WordPanel shut down
+ [INFO]  2010-11-03 09:05:16 --- search ec takes time:282
+ [INFO]  2010-11-03 09:05:23 --- WordPanel showUp
+ [INFO]  2010-11-03 09:05:24 --- WordPanel shut down
+ [INFO]  2010-11-03 09:05:38 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:05:46 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:05:52 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:05:58 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:05:59 --- WordPanel showUp
+ [INFO]  2010-11-03 09:06:00 --- WordPanel shut down
+ [INFO]  2010-11-03 09:06:06 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:06:13 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:09:59 --- Configuration done.
+ [INFO]  2010-11-03 09:09:59 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:09:59 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:10:00 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:10:00 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:10:00 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:10:00 --- initiating notice resource.
+ [INFO]  2010-11-03 09:10:00 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:10:00 --- initiating time counter.
+ [INFO]  2010-11-03 09:10:00 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:10:00 --- initiating tip counter.
+ [INFO]  2010-11-03 09:10:00 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:10:00 --- initiating dict panels.
+ [INFO]  2010-11-03 09:10:00 --- Updating File History
+ [INFO]  2010-11-03 09:10:00 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:10:00 --- Open history1
+ [INFO]  2010-11-03 09:10:00 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:10:00 --- Loading Content
+ [INFO]  2010-11-03 09:10:01 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:10:01 --- Load file sucessfully
+ [INFO]  2010-11-03 09:10:01 --- Load file done
+ [INFO]  2010-11-03 09:10:01 --- search futher jc takes time:156
+ [INFO]  2010-11-03 09:10:02 --- search futher cj takes time:156
+ [INFO]  2010-11-03 09:10:02 --- search futher ec takes time:281
+ [INFO]  2010-11-03 09:10:02 --- search futher ce takes time:125
+ [INFO]  2010-11-03 09:10:04 --- Load sheet :20100803
+ [INFO]  2010-11-03 09:10:27 --- Load sheet :20100709
+ [INFO]  2010-11-03 09:10:28 --- Load sheet :20100603
+ [INFO]  2010-11-03 09:10:28 --- Load sheet :20100519(Start using AJAX today)
+ [INFO]  2010-11-03 09:10:28 --- Load sheet :20100517(Some new words)
+ [INFO]  2010-11-03 09:10:29 --- Load sheet :20100520(continued interview english)
+ [INFO]  2010-11-03 09:10:29 --- Load sheet :20100519(Start using AJAX today)
+ [INFO]  2010-11-03 09:10:29 --- Load sheet :20100517(Some new words)
+ [INFO]  2010-11-03 09:10:30 --- Load sheet :20100603
+ [INFO]  2010-11-03 09:10:30 --- Load sheet :20100805
+ [INFO]  2010-11-03 09:10:31 --- Load sheet :20100906
+ [INFO]  2010-11-03 09:10:32 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:10:34 --- Initializing DetailPanel
+ [INFO]  2010-11-03 09:10:34 --- Initialization Done
+ [INFO]  2010-11-03 09:10:34 --- WordPanel shut down
+ [INFO]  2010-11-03 09:10:43 --- WordPanel showUp
+ [INFO]  2010-11-03 09:10:44 --- Initializing SearchFrame
+ [INFO]  2010-11-03 09:10:44 --- Initializationg done
+ [INFO]  2010-11-03 09:10:48 --- Configuration done.
+ [INFO]  2010-11-03 09:10:48 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:10:49 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:10:49 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:10:49 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:10:49 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:10:49 --- initiating notice resource.
+ [INFO]  2010-11-03 09:10:49 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:10:49 --- initiating time counter.
+ [INFO]  2010-11-03 09:10:49 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:10:49 --- initiating tip counter.
+ [INFO]  2010-11-03 09:10:49 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:10:49 --- initiating dict panels.
+ [INFO]  2010-11-03 09:10:50 --- Updating File History
+ [INFO]  2010-11-03 09:10:50 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:10:50 --- Open history1
+ [INFO]  2010-11-03 09:10:50 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:10:50 --- Loading Content
+ [INFO]  2010-11-03 09:10:50 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:10:50 --- Load file sucessfully
+ [INFO]  2010-11-03 09:10:50 --- Load file done
+ [INFO]  2010-11-03 09:10:51 --- search futher jc takes time:141
+ [INFO]  2010-11-03 09:10:51 --- search futher cj takes time:157
+ [INFO]  2010-11-03 09:10:51 --- search futher ec takes time:297
+ [INFO]  2010-11-03 09:10:52 --- search futher ce takes time:140
+ [INFO]  2010-11-03 09:10:52 --- WordPanel shut down
+ [INFO]  2010-11-03 09:10:52 --- WordPanel showUp
+ [INFO]  2010-11-03 09:10:55 --- WordPanel shut down
+ [INFO]  2010-11-03 09:10:56 --- WordPanel showUp
+ [INFO]  2010-11-03 09:10:59 --- WordPanel shut down
+ [INFO]  2010-11-03 09:11:00 --- search ec takes time:63
+ [INFO]  2010-11-03 09:11:08 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:11:08 --- WordPanel showUp
+ [INFO]  2010-11-03 09:11:10 --- WordPanel shut down
+ [INFO]  2010-11-03 09:11:15 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:11:21 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:11:22 --- WordPanel showUp
+ [INFO]  2010-11-03 09:11:23 --- WordPanel shut down
+ [INFO]  2010-11-03 09:11:29 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:12:29 --- Configuration done.
+ [INFO]  2010-11-03 09:12:29 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:12:29 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:12:30 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:12:30 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:12:30 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:12:30 --- initiating notice resource.
+ [INFO]  2010-11-03 09:12:30 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:12:30 --- initiating time counter.
+ [INFO]  2010-11-03 09:12:30 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:12:30 --- initiating tip counter.
+ [INFO]  2010-11-03 09:12:30 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:12:30 --- initiating dict panels.
+ [INFO]  2010-11-03 09:12:30 --- Updating File History
+ [INFO]  2010-11-03 09:12:30 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:12:30 --- Open history1
+ [INFO]  2010-11-03 09:12:30 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:12:30 --- Loading Content
+ [INFO]  2010-11-03 09:12:30 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:12:31 --- Load file sucessfully
+ [INFO]  2010-11-03 09:12:31 --- Load file done
+ [INFO]  2010-11-03 09:12:31 --- search futher jc takes time:94
+ [INFO]  2010-11-03 09:12:31 --- search futher cj takes time:172
+ [INFO]  2010-11-03 09:12:31 --- search futher ec takes time:203
+ [INFO]  2010-11-03 09:12:32 --- search futher ce takes time:94
+ [INFO]  2010-11-03 09:12:33 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:12:34 --- Initializing DetailPanel
+ [INFO]  2010-11-03 09:12:34 --- Initialization Done
+ [INFO]  2010-11-03 09:12:34 --- WordPanel shut down
+ [INFO]  2010-11-03 09:12:43 --- Configuration done.
+ [INFO]  2010-11-03 09:12:43 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:12:44 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:12:44 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:12:44 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:12:44 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:12:44 --- initiating notice resource.
+ [INFO]  2010-11-03 09:12:44 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:12:44 --- initiating time counter.
+ [INFO]  2010-11-03 09:12:44 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:12:44 --- initiating tip counter.
+ [INFO]  2010-11-03 09:12:44 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:12:44 --- initiating dict panels.
+ [INFO]  2010-11-03 09:12:45 --- Updating File History
+ [INFO]  2010-11-03 09:12:45 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:12:45 --- Open history1
+ [INFO]  2010-11-03 09:12:45 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:12:45 --- Loading Content
+ [INFO]  2010-11-03 09:12:45 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:12:45 --- Load file sucessfully
+ [INFO]  2010-11-03 09:12:45 --- Load file done
+ [INFO]  2010-11-03 09:12:45 --- WordPanel shut down
+ [INFO]  2010-11-03 09:12:46 --- search futher jc takes time:125
+ [INFO]  2010-11-03 09:12:46 --- search futher cj takes time:141
+ [INFO]  2010-11-03 09:12:46 --- search futher ec takes time:250
+ [INFO]  2010-11-03 09:12:46 --- search futher ce takes time:94
+ [INFO]  2010-11-03 09:12:47 --- search ec takes time:32
+ [INFO]  2010-11-03 09:12:48 --- WordPanel showUp
+ [INFO]  2010-11-03 09:12:49 --- WordPanel shut down
+ [INFO]  2010-11-03 09:12:56 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:12:57 --- WordPanel showUp
+ [INFO]  2010-11-03 09:12:58 --- WordPanel shut down
+ [INFO]  2010-11-03 09:13:00 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:13:05 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:13:10 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:13:41 --- Configuration done.
+ [INFO]  2010-11-03 09:13:41 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:13:42 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:13:42 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:13:42 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:13:42 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:13:42 --- initiating notice resource.
+ [INFO]  2010-11-03 09:13:42 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:13:42 --- initiating time counter.
+ [INFO]  2010-11-03 09:13:42 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:13:42 --- initiating tip counter.
+ [INFO]  2010-11-03 09:13:42 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:13:42 --- initiating dict panels.
+ [INFO]  2010-11-03 09:13:43 --- Updating File History
+ [INFO]  2010-11-03 09:13:43 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:13:43 --- Open history1
+ [INFO]  2010-11-03 09:13:43 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:13:43 --- Loading Content
+ [INFO]  2010-11-03 09:13:43 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:13:43 --- Load file sucessfully
+ [INFO]  2010-11-03 09:13:43 --- Load file done
+ [INFO]  2010-11-03 09:13:44 --- search futher jc takes time:125
+ [INFO]  2010-11-03 09:13:44 --- search futher cj takes time:172
+ [INFO]  2010-11-03 09:13:44 --- search futher ec takes time:312
+ [INFO]  2010-11-03 09:13:44 --- search futher ce takes time:78
+ [INFO]  2010-11-03 09:13:45 --- WordPanel shut down
+ [INFO]  2010-11-03 09:13:46 --- WordPanel showUp
+ [INFO]  2010-11-03 09:13:48 --- Load sheet :20100906
+ [INFO]  2010-11-03 09:13:48 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:13:49 --- Initializing DetailPanel
+ [INFO]  2010-11-03 09:13:49 --- Initialization Done
+ [INFO]  2010-11-03 09:13:49 --- WordPanel shut down
+ [INFO]  2010-11-03 09:14:03 --- Configuration done.
+ [INFO]  2010-11-03 09:14:03 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:14:03 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:14:04 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:14:04 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:14:04 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:14:04 --- initiating notice resource.
+ [INFO]  2010-11-03 09:14:04 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:14:04 --- initiating time counter.
+ [INFO]  2010-11-03 09:14:04 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:14:04 --- initiating tip counter.
+ [INFO]  2010-11-03 09:14:04 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:14:04 --- initiating dict panels.
+ [INFO]  2010-11-03 09:14:04 --- Updating File History
+ [INFO]  2010-11-03 09:14:04 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:14:04 --- Open history1
+ [INFO]  2010-11-03 09:14:04 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:14:04 --- Loading Content
+ [INFO]  2010-11-03 09:14:05 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:14:05 --- Load file sucessfully
+ [INFO]  2010-11-03 09:14:05 --- Load file done
+ [INFO]  2010-11-03 09:14:05 --- search futher jc takes time:109
+ [INFO]  2010-11-03 09:14:05 --- search futher cj takes time:187
+ [INFO]  2010-11-03 09:14:06 --- search futher ec takes time:297
+ [INFO]  2010-11-03 09:14:06 --- search futher ce takes time:93
+ [INFO]  2010-11-03 09:14:07 --- Load sheet :20100906
+ [INFO]  2010-11-03 09:14:08 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:14:09 --- WordPanel shut down
+ [INFO]  2010-11-03 09:14:10 --- search ec takes time:31
+ [INFO]  2010-11-03 09:14:15 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:14:22 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:14:23 --- WordPanel showUp
+ [INFO]  2010-11-03 09:14:24 --- WordPanel shut down
+ [INFO]  2010-11-03 09:14:30 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:14:37 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:17:20 --- Configuration done.
+ [INFO]  2010-11-03 09:17:20 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:17:20 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:17:21 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:17:21 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:17:21 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:17:21 --- initiating notice resource.
+ [INFO]  2010-11-03 09:17:21 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:17:21 --- initiating time counter.
+ [INFO]  2010-11-03 09:17:21 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:17:21 --- initiating tip counter.
+ [INFO]  2010-11-03 09:17:21 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:17:21 --- initiating dict panels.
+ [INFO]  2010-11-03 09:17:21 --- Updating File History
+ [INFO]  2010-11-03 09:17:21 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:17:21 --- Open history1
+ [INFO]  2010-11-03 09:17:21 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:17:21 --- Loading Content
+ [INFO]  2010-11-03 09:17:22 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:17:22 --- Load file sucessfully
+ [INFO]  2010-11-03 09:17:22 --- Load file done
+ [INFO]  2010-11-03 09:17:22 --- search futher jc takes time:108
+ [INFO]  2010-11-03 09:17:23 --- search futher cj takes time:186
+ [INFO]  2010-11-03 09:17:23 --- search futher ec takes time:278
+ [INFO]  2010-11-03 09:17:23 --- search futher ce takes time:108
+ [INFO]  2010-11-03 09:17:24 --- WordPanel shut down
+ [INFO]  2010-11-03 09:17:24 --- WordPanel showUp
+ [INFO]  2010-11-03 09:17:25 --- WordPanel shut down
+ [INFO]  2010-11-03 09:17:25 --- WordPanel showUp
+ [INFO]  2010-11-03 09:17:26 --- WordPanel shut down
+ [INFO]  2010-11-03 09:17:26 --- WordPanel showUp
+ [INFO]  2010-11-03 09:17:27 --- WordPanel shut down
+ [INFO]  2010-11-03 09:17:27 --- WordPanel showUp
+ [INFO]  2010-11-03 09:17:28 --- Load sheet :20100824
+ [INFO]  2010-11-03 09:17:30 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:17:30 --- Initializing DetailPanel
+ [INFO]  2010-11-03 09:17:30 --- Initialization Done
+ [INFO]  2010-11-03 09:17:30 --- WordPanel shut down
+ [INFO]  2010-11-03 09:17:41 --- WordPanel showUp
+ [INFO]  2010-11-03 09:17:44 --- Configuration done.
+ [INFO]  2010-11-03 09:17:44 --- Initializing MainFrame
+ [INFO]  2010-11-03 09:17:44 --- MainFrame show up successfully
+ [INFO]  2010-11-03 09:17:45 --- cn font :?文楷体
+ [INFO]  2010-11-03 09:17:45 --- en font :Comic Sans MS
+ [INFO]  2010-11-03 09:17:45 --- jp font :MS PGothic
+ [INFO]  2010-11-03 09:17:45 --- initiating notice resource.
+ [INFO]  2010-11-03 09:17:45 --- notice resource has been initiated successfully.
+ [INFO]  2010-11-03 09:17:45 --- initiating time counter.
+ [INFO]  2010-11-03 09:17:45 --- time counter has been initiated successfully.
+ [INFO]  2010-11-03 09:17:45 --- initiating tip counter.
+ [INFO]  2010-11-03 09:17:45 --- tip counter has been initiated successfully.
+ [INFO]  2010-11-03 09:17:45 --- initiating dict panels.
+ [INFO]  2010-11-03 09:17:45 --- Updating File History
+ [INFO]  2010-11-03 09:17:45 --- Update File History Successfully.
+ [INFO]  2010-11-03 09:17:45 --- Open history1
+ [INFO]  2010-11-03 09:17:45 --- File C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls loaded successfully
+ [INFO]  2010-11-03 09:17:45 --- Loading Content
+ [INFO]  2010-11-03 09:17:46 --- dict panels has been initiated successfully.
+ [INFO]  2010-11-03 09:17:46 --- Load file sucessfully
+ [INFO]  2010-11-03 09:17:46 --- Load file done
+ [INFO]  2010-11-03 09:17:46 --- search futher jc takes time:139
+ [INFO]  2010-11-03 09:17:47 --- search futher cj takes time:217
+ [INFO]  2010-11-03 09:17:47 --- search futher ec takes time:263
+ [INFO]  2010-11-03 09:17:47 --- search futher ce takes time:139
+ [INFO]  2010-11-03 09:17:50 --- Load sheet :20101027
+ [INFO]  2010-11-03 09:18:25 --- WordPanel shut down
+ [INFO]  2010-11-03 09:18:25 --- WordPanel showUp
+ [INFO]  2010-11-03 09:18:26 --- WordPanel shut down
+ [INFO]  2010-11-03 09:18:26 --- WordPanel showUp
+ [INFO]  2010-11-03 09:18:27 --- WordPanel shut down
+ [INFO]  2010-11-03 09:18:27 --- WordPanel showUp
+ [INFO]  2010-11-03 09:19:02 --- Load sheet :20101026
+ [INFO]  2010-11-03 09:19:02 --- Load sheet :20101027
+ [INFO]  2010-11-03 09:19:03 --- Load sheet :20101026
+ [INFO]  2010-11-03 09:19:03 --- Load sheet :20101027
+ [INFO]  2010-11-03 09:19:14 --- Load sheet :20100927
+ [INFO]  2010-11-03 09:19:16 --- Initializing DetailPanel
+ [INFO]  2010-11-03 09:19:16 --- Initialization Done
+ [INFO]  2010-11-03 09:19:16 --- WordPanel shut down
+ [INFO]  2010-11-03 09:19:22 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:19:26 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:19:28 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:19:31 --- add word a to file C:\Documents and Settings\xueyy\Desktop\コピー ～ EnglishWords.xls\コピー ～ EnglishWords.xls
+ [INFO]  2010-11-03 09:19:34 --- WordPanel showUp
+ 

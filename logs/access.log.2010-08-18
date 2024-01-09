@@ -1,0 +1,417 @@
+[INFO]  2010-08-18 09:40:35 --- Configuration done.
+ [INFO]  2010-08-18 09:40:35 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:40:39 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:40:40 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:40:40 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:40:40 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:40:41 --- initiating notice resource.
+ [INFO]  2010-08-18 09:40:41 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:40:41 --- initiating time counter.
+ [INFO]  2010-08-18 09:40:41 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:40:41 --- initiating tip counter.
+ [INFO]  2010-08-18 09:40:41 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:40:41 --- initiating dict panels.
+ [INFO]  2010-08-18 09:40:44 --- Updating File History
+ [INFO]  2010-08-18 09:40:44 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:40:44 --- Open history1
+ [INFO]  2010-08-18 09:40:44 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:40:44 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:40:44 --- Loading Content
+ [INFO]  2010-08-18 09:40:45 --- Load file sucessfully
+ [INFO]  2010-08-18 09:40:45 --- Load file done
+ [INFO]  2010-08-18 09:40:46 --- search futher jc takes time:124
+ [INFO]  2010-08-18 09:40:46 --- search futher cj takes time:124
+ [INFO]  2010-08-18 09:40:47 --- search futher ec takes time:309
+ [INFO]  2010-08-18 09:40:47 --- search futher ce takes time:278
+ [INFO]  2010-08-18 09:40:48 --- Initializing OptionDialog
+ [INFO]  2010-08-18 09:40:48 --- Initialization done
+ [INFO]  2010-08-18 09:40:56 --- Configuration done.
+ [INFO]  2010-08-18 09:40:56 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:40:56 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:40:57 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:40:57 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:40:57 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:40:57 --- initiating notice resource.
+ [INFO]  2010-08-18 09:40:57 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:40:57 --- initiating time counter.
+ [INFO]  2010-08-18 09:40:57 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:40:57 --- initiating tip counter.
+ [INFO]  2010-08-18 09:40:57 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:40:57 --- initiating dict panels.
+ [INFO]  2010-08-18 09:40:59 --- Updating File History
+ [INFO]  2010-08-18 09:40:59 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:40:59 --- Open history1
+ [INFO]  2010-08-18 09:40:59 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:40:59 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:40:59 --- Loading Content
+ [INFO]  2010-08-18 09:40:59 --- Load file sucessfully
+ [INFO]  2010-08-18 09:40:59 --- Load file done
+ [INFO]  2010-08-18 09:41:00 --- search futher jc takes time:108
+ [INFO]  2010-08-18 09:41:00 --- search futher cj takes time:77
+ [INFO]  2010-08-18 09:41:00 --- search futher ec takes time:247
+ [INFO]  2010-08-18 09:41:00 --- search futher ce takes time:216
+ [INFO]  2010-08-18 09:41:09 --- Load sheet :0531
+ [INFO]  2010-08-18 09:41:10 --- Load sheet :0716
+ [INFO]  2010-08-18 09:41:12 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-18 09:41:12 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-18 09:41:13 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-18 09:41:14 --- WordPanel shut down
+ [INFO]  2010-08-18 09:41:34 --- initiating excel.application
+ [INFO]  2010-08-18 09:41:37 --- initiation done
+ [INFO]  2010-08-18 09:41:37 --- ready to quit excel.application
+ [INFO]  2010-08-18 09:41:37 --- quit excel.application
+ [INFO]  2010-08-18 09:41:43 --- Initializing OptionDialog
+ [INFO]  2010-08-18 09:41:43 --- Initialization done
+ [INFO]  2010-08-18 09:41:51 --- WordPanel showUp
+ [INFO]  2010-08-18 09:42:01 --- OptionDialog show up
+ [INFO]  2010-08-18 09:42:14 --- Configuration done.
+ [INFO]  2010-08-18 09:42:14 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:42:14 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:42:15 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:42:15 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:42:15 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:42:15 --- initiating notice resource.
+ [INFO]  2010-08-18 09:42:15 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:42:15 --- initiating time counter.
+ [INFO]  2010-08-18 09:42:15 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:42:15 --- initiating tip counter.
+ [INFO]  2010-08-18 09:42:15 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:42:15 --- initiating dict panels.
+ [INFO]  2010-08-18 09:42:17 --- Updating File History
+ [INFO]  2010-08-18 09:42:17 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:42:17 --- Open history1
+ [INFO]  2010-08-18 09:42:17 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:42:17 --- Loading Content
+ [INFO]  2010-08-18 09:42:17 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:42:17 --- Load file sucessfully
+ [INFO]  2010-08-18 09:42:17 --- Load file done
+ [INFO]  2010-08-18 09:42:18 --- search futher jc takes time:108
+ [INFO]  2010-08-18 09:42:18 --- search futher cj takes time:78
+ [INFO]  2010-08-18 09:42:18 --- search futher ec takes time:232
+ [INFO]  2010-08-18 09:42:18 --- search futher ce takes time:201
+ [INFO]  2010-08-18 09:42:30 --- Initializing OptionDialog
+ [INFO]  2010-08-18 09:42:30 --- Initialization done
+ [INFO]  2010-08-18 09:42:39 --- Configuration done.
+ [INFO]  2010-08-18 09:42:39 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:42:39 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:42:40 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:42:40 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:42:40 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:42:40 --- initiating notice resource.
+ [INFO]  2010-08-18 09:42:40 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:42:40 --- initiating time counter.
+ [INFO]  2010-08-18 09:42:40 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:42:40 --- initiating tip counter.
+ [INFO]  2010-08-18 09:42:40 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:42:40 --- initiating dict panels.
+ [INFO]  2010-08-18 09:42:42 --- Updating File History
+ [INFO]  2010-08-18 09:42:42 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:42:42 --- Open history1
+ [INFO]  2010-08-18 09:42:42 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:42:42 --- Loading Content
+ [INFO]  2010-08-18 09:42:42 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:42:42 --- Load file sucessfully
+ [INFO]  2010-08-18 09:42:42 --- Load file done
+ [INFO]  2010-08-18 09:42:43 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:42:43 --- search futher cj takes time:218
+ [INFO]  2010-08-18 09:42:43 --- search futher ec takes time:233
+ [INFO]  2010-08-18 09:42:43 --- search futher ce takes time:93
+ [INFO]  2010-08-18 09:45:18 --- Configuration done.
+ [INFO]  2010-08-18 09:45:18 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:45:18 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:45:19 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:45:19 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:45:19 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:45:19 --- initiating notice resource.
+ [INFO]  2010-08-18 09:45:19 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:45:19 --- initiating time counter.
+ [INFO]  2010-08-18 09:45:19 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:19 --- initiating tip counter.
+ [INFO]  2010-08-18 09:45:19 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:19 --- initiating dict panels.
+ [INFO]  2010-08-18 09:45:21 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:45:21 --- Updating File History
+ [INFO]  2010-08-18 09:45:21 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:45:21 --- Open history1
+ [INFO]  2010-08-18 09:45:21 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:45:21 --- Loading Content
+ [INFO]  2010-08-18 09:45:21 --- Load file sucessfully
+ [INFO]  2010-08-18 09:45:21 --- Load file done
+ [INFO]  2010-08-18 09:45:22 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:45:22 --- search futher cj takes time:78
+ [INFO]  2010-08-18 09:45:22 --- search futher ec takes time:248
+ [INFO]  2010-08-18 09:45:22 --- search futher ce takes time:233
+ [INFO]  2010-08-18 09:45:31 --- Configuration done.
+ [INFO]  2010-08-18 09:45:31 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:45:32 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:45:32 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:45:32 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:45:32 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:45:32 --- initiating notice resource.
+ [INFO]  2010-08-18 09:45:32 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:45:32 --- initiating time counter.
+ [INFO]  2010-08-18 09:45:32 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:32 --- initiating tip counter.
+ [INFO]  2010-08-18 09:45:32 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:32 --- initiating dict panels.
+ [INFO]  2010-08-18 09:45:34 --- Updating File History
+ [INFO]  2010-08-18 09:45:34 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:45:34 --- Open history1
+ [INFO]  2010-08-18 09:45:34 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:45:34 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:45:34 --- Loading Content
+ [INFO]  2010-08-18 09:45:35 --- Load file sucessfully
+ [INFO]  2010-08-18 09:45:35 --- Load file done
+ [INFO]  2010-08-18 09:45:35 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:45:35 --- search futher cj takes time:77
+ [INFO]  2010-08-18 09:45:35 --- search futher ec takes time:233
+ [INFO]  2010-08-18 09:45:36 --- search futher ce takes time:218
+ [INFO]  2010-08-18 09:45:43 --- Configuration done.
+ [INFO]  2010-08-18 09:45:43 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:45:43 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:45:44 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:45:44 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:45:44 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:45:44 --- initiating notice resource.
+ [INFO]  2010-08-18 09:45:44 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:45:44 --- initiating time counter.
+ [INFO]  2010-08-18 09:45:44 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:44 --- initiating tip counter.
+ [INFO]  2010-08-18 09:45:44 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:44 --- initiating dict panels.
+ [INFO]  2010-08-18 09:45:45 --- Updating File History
+ [INFO]  2010-08-18 09:45:45 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:45:45 --- Open history1
+ [INFO]  2010-08-18 09:45:45 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:45:45 --- Loading Content
+ [INFO]  2010-08-18 09:45:45 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:45:46 --- Load file sucessfully
+ [INFO]  2010-08-18 09:45:46 --- Load file done
+ [INFO]  2010-08-18 09:45:46 --- search futher jc takes time:94
+ [INFO]  2010-08-18 09:45:46 --- search futher cj takes time:62
+ [INFO]  2010-08-18 09:45:47 --- search futher ec takes time:265
+ [INFO]  2010-08-18 09:45:47 --- search futher ce takes time:217
+ [INFO]  2010-08-18 09:45:56 --- Configuration done.
+ [INFO]  2010-08-18 09:45:56 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:45:56 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:45:57 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:45:57 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:45:57 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:45:57 --- initiating notice resource.
+ [INFO]  2010-08-18 09:45:57 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:45:57 --- initiating time counter.
+ [INFO]  2010-08-18 09:45:57 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:57 --- initiating tip counter.
+ [INFO]  2010-08-18 09:45:57 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:45:57 --- initiating dict panels.
+ [INFO]  2010-08-18 09:45:58 --- Updating File History
+ [INFO]  2010-08-18 09:45:58 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:45:58 --- Open history1
+ [INFO]  2010-08-18 09:45:58 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:45:58 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:45:58 --- Loading Content
+ [INFO]  2010-08-18 09:45:59 --- Load file sucessfully
+ [INFO]  2010-08-18 09:45:59 --- Load file done
+ [INFO]  2010-08-18 09:45:59 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:45:59 --- search futher cj takes time:78
+ [INFO]  2010-08-18 09:46:00 --- search futher ec takes time:248
+ [INFO]  2010-08-18 09:46:00 --- search futher ce takes time:218
+ [INFO]  2010-08-18 09:46:06 --- Initializing OptionDialog
+ [INFO]  2010-08-18 09:46:06 --- Initialization done
+ [INFO]  2010-08-18 09:46:13 --- Configuration done.
+ [INFO]  2010-08-18 09:46:13 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:46:14 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:46:14 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:46:14 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:46:14 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:46:14 --- initiating notice resource.
+ [INFO]  2010-08-18 09:46:15 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:46:15 --- initiating time counter.
+ [INFO]  2010-08-18 09:46:15 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:15 --- initiating tip counter.
+ [INFO]  2010-08-18 09:46:15 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:15 --- initiating dict panels.
+ [INFO]  2010-08-18 09:46:16 --- Updating File History
+ [INFO]  2010-08-18 09:46:16 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:46:16 --- Open history1
+ [INFO]  2010-08-18 09:46:16 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:46:16 --- Loading Content
+ [INFO]  2010-08-18 09:46:16 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:46:17 --- Load file sucessfully
+ [INFO]  2010-08-18 09:46:17 --- Load file done
+ [INFO]  2010-08-18 09:46:17 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:46:17 --- search futher cj takes time:77
+ [INFO]  2010-08-18 09:46:17 --- search futher ec takes time:218
+ [INFO]  2010-08-18 09:46:18 --- search futher ce takes time:202
+ [INFO]  2010-08-18 09:46:28 --- Configuration done.
+ [INFO]  2010-08-18 09:46:28 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:46:29 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:46:29 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:46:29 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:46:29 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:46:30 --- initiating notice resource.
+ [INFO]  2010-08-18 09:46:30 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:46:30 --- initiating time counter.
+ [INFO]  2010-08-18 09:46:30 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:30 --- initiating tip counter.
+ [INFO]  2010-08-18 09:46:30 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:30 --- initiating dict panels.
+ [INFO]  2010-08-18 09:46:31 --- Updating File History
+ [INFO]  2010-08-18 09:46:31 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:46:31 --- Open history1
+ [INFO]  2010-08-18 09:46:31 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:46:31 --- Loading Content
+ [INFO]  2010-08-18 09:46:32 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:46:32 --- Load file sucessfully
+ [INFO]  2010-08-18 09:46:32 --- Load file done
+ [INFO]  2010-08-18 09:46:32 --- search futher jc takes time:93
+ [INFO]  2010-08-18 09:46:32 --- search futher cj takes time:63
+ [INFO]  2010-08-18 09:46:33 --- search futher ec takes time:233
+ [INFO]  2010-08-18 09:46:33 --- search futher ce takes time:217
+ [INFO]  2010-08-18 09:46:38 --- Configuration done.
+ [INFO]  2010-08-18 09:46:38 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:46:38 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:46:39 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:46:39 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:46:39 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:46:39 --- initiating notice resource.
+ [INFO]  2010-08-18 09:46:39 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:46:39 --- initiating time counter.
+ [INFO]  2010-08-18 09:46:39 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:39 --- initiating tip counter.
+ [INFO]  2010-08-18 09:46:39 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:39 --- initiating dict panels.
+ [INFO]  2010-08-18 09:46:41 --- Updating File History
+ [INFO]  2010-08-18 09:46:41 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:46:41 --- Open history1
+ [INFO]  2010-08-18 09:46:41 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:46:41 --- Loading Content
+ [INFO]  2010-08-18 09:46:41 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:46:41 --- Load file sucessfully
+ [INFO]  2010-08-18 09:46:42 --- Load file done
+ [INFO]  2010-08-18 09:46:42 --- search futher jc takes time:140
+ [INFO]  2010-08-18 09:46:42 --- search futher cj takes time:78
+ [INFO]  2010-08-18 09:46:42 --- search futher ec takes time:218
+ [INFO]  2010-08-18 09:46:43 --- search futher ce takes time:202
+ [INFO]  2010-08-18 09:46:45 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-18 09:46:45 --- Load sheet :0531
+ [INFO]  2010-08-18 09:46:46 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-18 09:46:46 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-18 09:46:47 --- Load sheet :0531
+ [INFO]  2010-08-18 09:46:55 --- Configuration done.
+ [INFO]  2010-08-18 09:46:55 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:46:56 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:46:57 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:46:57 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:46:57 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:46:57 --- initiating notice resource.
+ [INFO]  2010-08-18 09:46:57 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:46:57 --- initiating time counter.
+ [INFO]  2010-08-18 09:46:57 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:57 --- initiating tip counter.
+ [INFO]  2010-08-18 09:46:57 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:46:57 --- initiating dict panels.
+ [INFO]  2010-08-18 09:46:58 --- Updating File History
+ [INFO]  2010-08-18 09:46:58 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:46:58 --- Open history1
+ [INFO]  2010-08-18 09:46:58 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:46:58 --- Loading Content
+ [INFO]  2010-08-18 09:46:59 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:46:59 --- Load file sucessfully
+ [INFO]  2010-08-18 09:46:59 --- Load file done
+ [INFO]  2010-08-18 09:46:59 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:46:59 --- search futher cj takes time:62
+ [INFO]  2010-08-18 09:47:00 --- search futher ec takes time:218
+ [INFO]  2010-08-18 09:47:00 --- search futher ce takes time:202
+ [INFO]  2010-08-18 09:47:05 --- WordPanel shut down
+ [INFO]  2010-08-18 09:47:12 --- Configuration done.
+ [INFO]  2010-08-18 09:47:12 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:47:12 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:47:13 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:47:13 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:47:13 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:47:13 --- initiating notice resource.
+ [INFO]  2010-08-18 09:47:13 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:47:13 --- initiating time counter.
+ [INFO]  2010-08-18 09:47:13 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:47:13 --- initiating tip counter.
+ [INFO]  2010-08-18 09:47:13 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:47:13 --- initiating dict panels.
+ [INFO]  2010-08-18 09:47:15 --- Updating File History
+ [INFO]  2010-08-18 09:47:15 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:47:15 --- Open history1
+ [INFO]  2010-08-18 09:47:15 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:47:15 --- Loading Content
+ [INFO]  2010-08-18 09:47:15 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:47:15 --- Load file sucessfully
+ [INFO]  2010-08-18 09:47:15 --- Load file done
+ [INFO]  2010-08-18 09:47:16 --- search futher jc takes time:108
+ [INFO]  2010-08-18 09:47:16 --- search futher cj takes time:63
+ [INFO]  2010-08-18 09:47:16 --- search futher ec takes time:202
+ [INFO]  2010-08-18 09:47:16 --- search futher ce takes time:202
+ [INFO]  2010-08-18 09:47:20 --- Load sheet :0519(Start using AJAX today)
+ [INFO]  2010-08-18 09:47:21 --- Load sheet :0520(continued interview english)
+ [INFO]  2010-08-18 09:47:21 --- Load sheet :0517(Some new words)
+ [INFO]  2010-08-18 09:47:30 --- Initializing OptionDialog
+ [INFO]  2010-08-18 09:47:30 --- Initialization done
+ [INFO]  2010-08-18 09:47:38 --- Configuration done.
+ [INFO]  2010-08-18 09:47:38 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:47:38 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:47:39 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:47:39 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:47:39 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:47:39 --- initiating notice resource.
+ [INFO]  2010-08-18 09:47:39 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:47:39 --- initiating time counter.
+ [INFO]  2010-08-18 09:47:39 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:47:39 --- initiating tip counter.
+ [INFO]  2010-08-18 09:47:39 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:47:39 --- initiating dict panels.
+ [INFO]  2010-08-18 09:47:41 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:47:41 --- Updating File History
+ [INFO]  2010-08-18 09:47:41 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:47:41 --- Open history1
+ [INFO]  2010-08-18 09:47:41 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:47:41 --- Loading Content
+ [INFO]  2010-08-18 09:47:41 --- Load file sucessfully
+ [INFO]  2010-08-18 09:47:41 --- Load file done
+ [INFO]  2010-08-18 09:47:42 --- search futher jc takes time:109
+ [INFO]  2010-08-18 09:47:42 --- search futher cj takes time:78
+ [INFO]  2010-08-18 09:47:42 --- search futher ec takes time:249
+ [INFO]  2010-08-18 09:47:42 --- search futher ce takes time:218
+ [INFO]  2010-08-18 09:47:51 --- WordPanel shut down
+ [INFO]  2010-08-18 09:48:07 --- Initializing maxTextFrame
+ [INFO]  2010-08-18 09:48:07 --- Initialization done
+ [INFO]  2010-08-18 09:48:33 --- WordPanel showUp
+ [INFO]  2010-08-18 09:48:40 --- Initializing DetailPanel
+ [INFO]  2010-08-18 09:48:40 --- Initialization Done
+ [INFO]  2010-08-18 09:48:41 --- WordPanel shut down
+ [INFO]  2010-08-18 09:50:46 --- Configuration done.
+ [INFO]  2010-08-18 09:50:46 --- Initializing MainFrame
+ [INFO]  2010-08-18 09:50:47 --- MainFrame show up successfully
+ [INFO]  2010-08-18 09:50:47 --- cn font :?•¶ž²‘Ì
+ [INFO]  2010-08-18 09:50:47 --- en font :Comic Sans MS
+ [INFO]  2010-08-18 09:50:47 --- jp font :MS PGothic
+ [INFO]  2010-08-18 09:50:47 --- initiating notice resource.
+ [INFO]  2010-08-18 09:50:48 --- notice resource has been initiated successfully.
+ [INFO]  2010-08-18 09:50:48 --- initiating time counter.
+ [INFO]  2010-08-18 09:50:48 --- time counter has been initiated successfully.
+ [INFO]  2010-08-18 09:50:48 --- initiating tip counter.
+ [INFO]  2010-08-18 09:50:48 --- tip counter has been initiated successfully.
+ [INFO]  2010-08-18 09:50:48 --- initiating dict panels.
+ [INFO]  2010-08-18 09:50:49 --- dict panels has been initiated successfully.
+ [INFO]  2010-08-18 09:50:49 --- Updating File History
+ [INFO]  2010-08-18 09:50:49 --- Update File History Successfully.
+ [INFO]  2010-08-18 09:50:49 --- Open history1
+ [INFO]  2010-08-18 09:50:49 --- File C:\Documents and Settings\xueyy\Desktop\EnglishWords.xls loaded successfully
+ [INFO]  2010-08-18 09:50:49 --- Loading Content
+ [INFO]  2010-08-18 09:50:50 --- Load file sucessfully
+ [INFO]  2010-08-18 09:50:50 --- Load file done
+ [INFO]  2010-08-18 09:50:50 --- search futher jc takes time:92
+ [INFO]  2010-08-18 09:50:50 --- search futher cj takes time:77
+ [INFO]  2010-08-18 09:50:51 --- search futher ec takes time:246
+ [INFO]  2010-08-18 09:50:51 --- search futher ce takes time:216
+ [INFO]  2010-08-18 09:50:54 --- WordPanel shut down
+ [INFO]  2010-08-18 09:50:56 --- Initializing maxTextFrame
+ [INFO]  2010-08-18 09:50:56 --- Initialization done
+ 

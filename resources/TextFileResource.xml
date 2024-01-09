@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextFileList>
+
+<TextFileTemplate>
+  
+<name/>
+      
+<path/> 
+
+<lastOpened/>
+
+</TextFileTemplate>
+
+
+<TextFileBean UUID="60e8e8c9f5fa4558a107ea8187abbefc">
+  
+<name>无师自通日本语</name>
+      
+<path>.\textResource\无师自通日本语.xml</path>
+
+<lastOpened>0</lastOpened>
+
+</TextFileBean><TextFileBean UUID="a3e8770b829241cea5887633052085e6">
+  
+<name>标准日本语</name>
+      
+<path>.\textResource\标准日本语.xml</path>
+
+<lastOpened>0</lastOpened>
+
+</TextFileBean><TextFileBean UUID="d998796d44204aa09a3ca594d54f768a">
+  
+<name>英语笔记</name>
+      
+<path>.\textResource\英语笔记.xml</path>
+
+<lastOpened>4</lastOpened>
+
+</TextFileBean><TextFileBean UUID="cc8286ae3e9847c88bc93f11e05e5dd4">
+  
+<name>计算机技术</name>
+      
+<path>.\textResource\计算机技术.xml</path>
+
+<lastOpened>3</lastOpened>
+
+</TextFileBean><TextFileBean UUID="da6ca76e2249402f8ca8cbcb4075daf5">
+  
+<name>日语笔记</name>
+      
+<path>.\textResource\日语笔记.xml</path>
+
+<lastOpened>0</lastOpened>
+
+</TextFileBean>
+<TextFileBean UUID="1a1b34b42b2b478f98f0cf631f3730be">
+  
+<name>新概念英语</name>
+      
+<path>.\textResource\新概念英语.xml</path>
+
+<lastOpened>5</lastOpened>
+
+</TextFileBean><TextFileBean UUID="1306660431a64119811b000c3148ae32">
+  
+<name>English</name>
+      
+<path>.\textResource\English.xml</path>
+
+<lastOpened>0</lastOpened>
+
+</TextFileBean><TextFileBean UUID="a1721cd7eda54018b76f6f2f6a3d3384">
+  
+<name>职场社交英语</name>
+      
+<path>.\textResource\职场社交英语.xml</path>
+
+<lastOpened>5</lastOpened>
+
+</TextFileBean><TextFileBean UUID="8a8d6491dd9143c48e1445bd8792288b">
+  
+<name>News Every Day</name>
+      
+<path>.\textResource\News Every Day.xml</path> 
+
+<lastOpened>1</lastOpened>
+
+</TextFileBean></TextFileList>
